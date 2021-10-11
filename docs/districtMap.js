@@ -1,6 +1,6 @@
 function districtMap(districts, disputed) {
 
-  var width = 800, height = 700, scale = 1200, active = d3.select(null);
+  var width = 800, height = 700, scale = 1200;
   var propTag = 'Literacy', ttName = 'Literacy Rate', unit = '%';
 
   function render(selection) {
@@ -89,6 +89,7 @@ function districtMap(districts, disputed) {
 
 
 // New code
+var active = d3.select(null)
 
 function clicked(d) {
 

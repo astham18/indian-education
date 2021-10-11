@@ -36,6 +36,9 @@ function selectFilter() {
     function render(selection) {
       selection.each(function() {
         d3.select(this).html("<form>"+
+                             "<input type='radio' name='gender' value='Literacy' checked> ALL<br>"+
+                             "<input type='radio' name='gender' value='FemaleLiteracy'> FEMALE<br>"+
+                             "<input type='radio' name='gender' value='MaleLiteracy'> MALE"+
                              "<input type='radio' name='gender' value='SchoolsLiteracy'> Num_Schools" +
                              "</form>");
       });
@@ -45,7 +48,7 @@ return render;
 
 function colorCode(data, filter) {
     var color = d3.scaleLinear()
-        .domain([0, d3.max(data)])
+        .domain([0, 9112])
         .range(["white", "red"])
     data.forEach(function(d) { 
         if (isNaN(d.properties[filter])) { d.properties[filter] = 77; }

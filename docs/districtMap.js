@@ -53,9 +53,7 @@ function districtMap(districts, disputed) {
       
       // New code
       var active = d3.select(null)
-      var g = svg.append("g")
-        .style("stroke-width", "1.5px");
-        
+
       function clicked(d) {
 
         if (active.node() === this) return reset();
@@ -70,17 +68,18 @@ function districtMap(districts, disputed) {
           scale = .9 / Math.max(dx / width, dy / height),
           translate = [width / 2 - scale * x, height / 2 - scale * y];
 
-        g.transition()
+        d3.select("#tooltip").transition()
           .duration(750)
           .style("stroke-width", 1.5 / scale + "px")
           .attr("transform", "translate(" + translate + ")scale(" + scale + ")");
+      console.log("clicked")
       }
 
       function reset() {
         active.classed("active", false);
         active = d3.select(null);
 
-        g.transition()
+        d3.select("#tooltip").transition()
           .duration(750)
           .style("stroke-width", "1.5px")
           .attr("transform", "");

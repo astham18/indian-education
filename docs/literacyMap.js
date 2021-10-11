@@ -11,7 +11,11 @@
             disputed = topojson.feature(topoKashmir, topoKashmir.objects.ne_10m_admin_0_Kashmir_Occupied);
 
             // Radio HTML
+            // selectFilter is the function that generates the radio buttons
+            // The d3.select() function in D3.js is used to select the first element
+            // that matches the specified selector string.
             d3.select("#select").call(selectFilter());
+            // Get value of checked radio button
             var filter = d3.select('#select input[name="gender"]:checked').node().value;
 
             // Color codes for districts based on Literacy Rates
@@ -35,6 +39,8 @@
 function selectFilter() {
     function render(selection) {
         selection.each(function () {
+            // d3.select(this) creates a 1-element selection containing the current
+            // node. This allows you to use D3's operators to modify the element
             d3.select(this).html("<form>" +
                 "<input type='radio' name='gender' value='Literacy' checked> ALL<br>" +
                 "<input type='radio' name='gender' value='FemaleLiteracy'> FEMALE<br>" +

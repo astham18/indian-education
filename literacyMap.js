@@ -45,7 +45,7 @@ function selectFilter() {
                 // "<input type='radio' name='gender' value='Literacy' checked> ALL<br>" +
                 // "<input type='radio' name='gender' value='FemaleLiteracy'> FEMALE<br>" +
                 // "<input type='radio' name='gender' value='MaleLiteracy'> MALE<br>" +
-                // "<input type='radio' name='gender' value='dummy'> DUMMY<br>" +
+                "<input type='radio' name='gender' value='dummy'> DUMMY<br>" +
                 "<input type='radio' name='gender' value='Num_Schools'> Num_Schools<br>" +
                 "</form>");
         });

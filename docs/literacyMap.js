@@ -54,7 +54,7 @@ function selectFilter() {
 
 function colorCode(data, filter) {
     var color = d3.scaleLinear()
-        .domain([0, d3.max(data)])
+        .domain([0, 100])
         .range(["white", "red"]);
 
     /*var color = d3.scale.threshold()

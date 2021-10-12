@@ -1,7 +1,7 @@
 function districtMap(districts, disputed) {
 
   var width = 800, height = 700, scale = 1200;
-  var propTag = 'Literacy', ttName = 'Literacy Rate', unit = '%';
+  var propTag = 'Count', ttName = 'Count', unit = '';
 
   function render(selection) {
     selection.each(function () {

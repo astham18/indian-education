@@ -4,6 +4,16 @@
 import json
 import random
 
+with open('IND_adm2_Literacy.json', 'r+') as f:
+    data = json.load(f)
+    for i in range(1,len(data['objects']['IND_adm2']['geometries'])):
+        print(i)
+        # data['objects']['IND_adm2']['geometries'][i]['properties']['dummy'] = random.randint(1, 100)
+        if data['objects']['IND_adm2']['geometries'][i]['properties'].pop('Literacy', None):
+            del data['objects']['IND_adm2']['geometries'][i]['properties']['Literacy']
+    f.seek(0)
+    json.dump(data, f, indent=4)
+    
 with open('docs/IND_adm2_Literacy.json', 'r+') as f:
     data = json.load(f)
     for i in range(len(data['objects']['IND_adm2']['geometries'])):

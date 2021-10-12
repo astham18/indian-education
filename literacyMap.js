@@ -43,9 +43,8 @@ function selectFilter() {
             // node. This allows you to use D3's operators to modify the element
             d3.select(this).html("<form>" +
                 "<input type='radio' name='gender' value='Literacy' checked> ALL<br>" +
-                "<input type='radio' name='gender' value='FemaleLiteracy'> FEMALE<br>" +
-                "<input type='radio' name='gender' value='MaleLiteracy'> MALE<br>" +
-                "<input type='radio' name='gender' value='dummy'> DUMMY<br>" +
+                "<input type='radio' name='gender' value='FemaleLiteracy'> FEMALE LITERACY<br>" +
+                "<input type='radio' name='gender' value='MaleLiteracy'> MALE LITERACY<br>" +
                 "<input type='radio' name='gender' value='Num_Schools'> Num_Schools<br>" +
                 "</form>");
         });

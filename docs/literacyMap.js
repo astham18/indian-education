@@ -44,7 +44,8 @@ function selectFilter() {
             d3.select(this).html("<form>" +
                 "<input type='radio' name='gender' value='Literacy' checked> ALL<br>" +
                 "<input type='radio' name='gender' value='FemaleLiteracy'> FEMALE<br>" +
-                "<input type='radio' name='gender' value='MaleLiteracy'> MALE" +
+                "<input type='radio' name='gender' value='MaleLiteracy'> MALE<br>" +
+                "<input type='radio' name='gender' value='dummy'> DUMMY" +
                 "</form>");
         });
     } // render

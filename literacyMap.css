@@ -6,6 +6,13 @@
 .state:hover rect { stroke: #777777; stroke-width: 2px; fill-opacity: .7; }
 .state:hover path { fill-opacity: .7; }
 
+#stateList {
+        position: absolute;
+        left: calc((100% - 20px)/2);
+        padding: 15px 15px;
+        border-radius: 8px;
+}
+
 #select {
 	position:absolute;
 	left: 500px;

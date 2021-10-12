@@ -12,7 +12,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 62,
-                        "Num_Schools": 0
+                        "Num_Schools": 264
                     },
                     "id": "Papum Pare",
                     "arcs": [
@@ -33,7 +33,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 35,
-                        "Num_Schools": 0
+                        "Num_Schools": 131
                     },
                     "id": "Tawang",
                     "arcs": [
@@ -51,7 +51,7 @@
                         "FemaleLiteracy": 42,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 46,
-                        "Num_Schools": 0
+                        "Num_Schools": 145
                     },
                     "id": "Tirap",
                     "arcs": [
@@ -92,7 +92,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 14,
-                        "Num_Schools": 0
+                        "Num_Schools": 126
                     },
                     "id": "Upper Siang",
                     "arcs": [
@@ -113,7 +113,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 80,
-                        "Num_Schools": 0
+                        "Num_Schools": 250
                     },
                     "id": "Upper Subansiri",
                     "arcs": [
@@ -133,7 +133,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 236
                     },
                     "id": "West Kameng",
                     "arcs": [
@@ -156,7 +156,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 146
                     },
                     "id": "West Siang",
                     "arcs": [
@@ -178,7 +178,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Assam",
                         "dummy": 84,
-                        "Num_Schools": 0
+                        "Num_Schools": 3444
                     },
                     "id": "Barpeta",
                     "arcs": [
@@ -199,7 +199,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Assam",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 1502
                     },
                     "id": "Bongaigaon",
                     "arcs": [
@@ -220,7 +220,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Assam",
                         "dummy": 27,
-                        "Num_Schools": 0
+                        "Num_Schools": 3049
                     },
                     "id": "Cachar",
                     "arcs": [
@@ -246,7 +246,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Assam",
                         "dummy": 69,
-                        "Num_Schools": 0
+                        "Num_Schools": 1736
                     },
                     "id": "Darrang",
                     "arcs": [
@@ -268,7 +268,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Assam",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 2186
                     },
                     "id": "Dhemaji",
                     "arcs": [
@@ -327,7 +327,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Assam",
                         "dummy": 84,
-                        "Num_Schools": 0
+                        "Num_Schools": 2106
                     },
                     "id": "Dibrugarh",
                     "arcs": [
@@ -349,7 +349,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Assam",
                         "dummy": 17,
-                        "Num_Schools": 0
+                        "Num_Schools": 2458
                     },
                     "id": "Goalpara",
                     "arcs": [
@@ -370,7 +370,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "Assam",
                         "dummy": 61,
-                        "Num_Schools": 0
+                        "Num_Schools": 2024
                     },
                     "id": "Golaghat",
                     "arcs": [
@@ -394,7 +394,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Assam",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 2788
                     },
                     "id": "Hailakandi",
                     "arcs": [
@@ -414,7 +414,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Assam",
                         "dummy": 72,
-                        "Num_Schools": 0
+                        "Num_Schools": 1783
                     },
                     "id": "Jorhat",
                     "arcs": [
@@ -460,7 +460,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Assam",
                         "dummy": 87,
-                        "Num_Schools": 0
+                        "Num_Schools": 1790
                     },
                     "id": "Karbi Anglong",
                     "arcs": [
@@ -492,7 +492,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Assam",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 2918
                     },
                     "id": "Karimganj",
                     "arcs": [
@@ -513,7 +513,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Assam",
                         "dummy": 87,
-                        "Num_Schools": 0
+                        "Num_Schools": 2634
                     },
                     "id": "Kokrajhar",
                     "arcs": [
@@ -534,7 +534,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "Assam",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 3158
                     },
                     "id": "Lakhimpur",
                     "arcs": [
@@ -579,7 +579,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Assam",
                         "dummy": 77,
-                        "Num_Schools": 0
+                        "Num_Schools": 3171
                     },
                     "id": "Nagaon",
                     "arcs": [
@@ -601,7 +601,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Assam",
                         "dummy": 90,
-                        "Num_Schools": 0
+                        "Num_Schools": 1757
                     },
                     "id": "Nalbari",
                     "arcs": [
@@ -644,7 +644,7 @@
                         "FemaleLiteracy": 76,
                         "NAME_1": "Assam",
                         "dummy": 95,
-                        "Num_Schools": 0
+                        "Num_Schools": 1647
                     },
                     "id": "Sibsagar",
                     "arcs": [
@@ -666,7 +666,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Assam",
                         "dummy": 14,
-                        "Num_Schools": 0
+                        "Num_Schools": 1684
                     },
                     "id": "Sonitpur",
                     "arcs": [
@@ -690,7 +690,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Assam",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 1847
                     },
                     "id": "Tinsukia",
                     "arcs": [
@@ -712,7 +712,7 @@
                         "FemaleLiteracy": 45,
                         "NAME_1": "Bihar",
                         "dummy": 13,
-                        "Num_Schools": 0
+                        "Num_Schools": 2592
                     },
                     "id": "Araria",
                     "arcs": [
@@ -753,7 +753,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Bihar",
                         "dummy": 82,
-                        "Num_Schools": 0
+                        "Num_Schools": 2415
                     },
                     "id": "Banka",
                     "arcs": [
@@ -775,7 +775,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Bihar",
                         "dummy": 54,
-                        "Num_Schools": 0
+                        "Num_Schools": 1996
                     },
                     "id": "Begusarai",
                     "arcs": [
@@ -817,7 +817,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Bihar",
                         "dummy": 81,
-                        "Num_Schools": 0
+                        "Num_Schools": 2305
                     },
                     "id": "Bhagalpur",
                     "arcs": [
@@ -841,7 +841,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Bihar",
                         "dummy": 55,
-                        "Num_Schools": 0
+                        "Num_Schools": 2509
                     },
                     "id": "Bhojpur",
                     "arcs": [
@@ -863,7 +863,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Bihar",
                         "dummy": 76,
-                        "Num_Schools": 0
+                        "Num_Schools": 1583
                     },
                     "id": "Buxar",
                     "arcs": [
@@ -884,7 +884,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Bihar",
                         "dummy": 51,
-                        "Num_Schools": 0
+                        "Num_Schools": 3062
                     },
                     "id": "Darbhanga",
                     "arcs": [
@@ -905,7 +905,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Bihar",
                         "dummy": 97,
-                        "Num_Schools": 0
+                        "Num_Schools": 4072
                     },
                     "id": "Gaya",
                     "arcs": [
@@ -928,7 +928,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Bihar",
                         "dummy": 99,
-                        "Num_Schools": 0
+                        "Num_Schools": 2224
                     },
                     "id": "Gopalganj",
                     "arcs": [
@@ -951,7 +951,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Bihar",
                         "dummy": 7,
-                        "Num_Schools": 0
+                        "Num_Schools": 1938
                     },
                     "id": "Jamui",
                     "arcs": [
@@ -974,7 +974,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Bihar",
                         "dummy": 81,
-                        "Num_Schools": 0
+                        "Num_Schools": 1049
                     },
                     "id": "Jehanabad",
                     "arcs": [
@@ -996,7 +996,7 @@
                         "FemaleLiteracy": 45,
                         "NAME_1": "Bihar",
                         "dummy": 17,
-                        "Num_Schools": 0
+                        "Num_Schools": 2563
                     },
                     "id": "Katihar",
                     "arcs": [
@@ -1017,7 +1017,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Bihar",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 1210
                     },
                     "id": "Khagaria",
                     "arcs": [
@@ -1039,7 +1039,7 @@
                         "FemaleLiteracy": 48,
                         "NAME_1": "Bihar",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 1953
                     },
                     "id": "Kishanganj",
                     "arcs": [
@@ -1060,7 +1060,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Bihar",
                         "dummy": 34,
-                        "Num_Schools": 0
+                        "Num_Schools": 995
                     },
                     "id": "Lakhisarai",
                     "arcs": [
@@ -1082,7 +1082,7 @@
                         "FemaleLiteracy": 43,
                         "NAME_1": "Bihar",
                         "dummy": 46,
-                        "Num_Schools": 0
+                        "Num_Schools": 1978
                     },
                     "id": "Madhepura",
                     "arcs": [
@@ -1104,7 +1104,7 @@
                         "FemaleLiteracy": 48,
                         "NAME_1": "Bihar",
                         "dummy": 36,
-                        "Num_Schools": 0
+                        "Num_Schools": 3681
                     },
                     "id": "Madhubani",
                     "arcs": [
@@ -1125,7 +1125,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Bihar",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 1271
                     },
                     "id": "Munger",
                     "arcs": [
@@ -1147,7 +1147,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Bihar",
                         "dummy": 16,
-                        "Num_Schools": 0
+                        "Num_Schools": 3827
                     },
                     "id": "Muzaffarpur",
                     "arcs": [
@@ -1171,7 +1171,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Bihar",
                         "dummy": 83,
-                        "Num_Schools": 0
+                        "Num_Schools": 3043
                     },
                     "id": "Nalanda",
                     "arcs": [
@@ -1193,7 +1193,7 @@
                         "FemaleLiteracy": 51,
                         "NAME_1": "Bihar",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 2123
                     },
                     "id": "Nawada",
                     "arcs": [
@@ -1216,7 +1216,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Bihar",
                         "dummy": 41,
-                        "Num_Schools": 0
+                        "Num_Schools": 3431
                     },
                     "id": "Pashchim Champaran",
                     "arcs": [
@@ -1237,7 +1237,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Bihar",
                         "dummy": 13,
-                        "Num_Schools": 0
+                        "Num_Schools": 4553
                     },
                     "id": "Patna",
                     "arcs": [
@@ -1261,7 +1261,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Bihar",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 4042
                     },
                     "id": "Purba Champaran",
                     "arcs": [
@@ -1283,7 +1283,7 @@
                         "FemaleLiteracy": 43,
                         "NAME_1": "Bihar",
                         "dummy": 22,
-                        "Num_Schools": 0
+                        "Num_Schools": 2839
                     },
                     "id": "Purnia",
                     "arcs": [
@@ -1305,7 +1305,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Bihar",
                         "dummy": 40,
-                        "Num_Schools": 0
+                        "Num_Schools": 2779
                     },
                     "id": "Rohtas",
                     "arcs": [
@@ -1329,7 +1329,7 @@
                         "FemaleLiteracy": 43,
                         "NAME_1": "Bihar",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 1782
                     },
                     "id": "Saharsa",
                     "arcs": [
@@ -1351,7 +1351,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Bihar",
                         "dummy": 30,
-                        "Num_Schools": 0
+                        "Num_Schools": 3159
                     },
                     "id": "Samastipur",
                     "arcs": [
@@ -1374,7 +1374,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Bihar",
                         "dummy": 60,
-                        "Num_Schools": 0
+                        "Num_Schools": 3152
                     },
                     "id": "Saran",
                     "arcs": [
@@ -1397,7 +1397,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Bihar",
                         "dummy": 9,
-                        "Num_Schools": 0
+                        "Num_Schools": 619
                     },
                     "id": "Sheikhpura",
                     "arcs": [
@@ -1417,7 +1417,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Bihar",
                         "dummy": 65,
-                        "Num_Schools": 0
+                        "Num_Schools": 473
                     },
                     "id": "Sheohar",
                     "arcs": [
@@ -1436,7 +1436,7 @@
                         "FemaleLiteracy": 51,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 38,
-                        "Num_Schools": 0
+                        "Num_Schools": 1710
                     },
                     "id": "Tikamgarh",
                     "arcs": [
@@ -1455,7 +1455,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 72,
-                        "Num_Schools": 0
+                        "Num_Schools": 2973
                     },
                     "id": "Ujjain",
                     "arcs": [
@@ -1476,7 +1476,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 54,
-                        "Num_Schools": 0
+                        "Num_Schools": 1147
                     },
                     "id": "Umaria",
                     "arcs": [
@@ -1497,7 +1497,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 2684
                     },
                     "id": "Vidisha",
                     "arcs": [
@@ -1563,7 +1563,7 @@
                         "FemaleLiteracy": 82,
                         "NAME_1": "Maharashtra",
                         "dummy": 92,
-                        "Num_Schools": 0
+                        "Num_Schools": 1868
                     },
                     "id": "Akola",
                     "arcs": [
@@ -1582,7 +1582,7 @@
                         "FemaleLiteracy": 84,
                         "NAME_1": "Maharashtra",
                         "dummy": 15,
-                        "Num_Schools": 0
+                        "Num_Schools": 2898
                     },
                     "id": "Amravati",
                     "arcs": [
@@ -1629,7 +1629,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Maharashtra",
                         "dummy": 87,
-                        "Num_Schools": 0
+                        "Num_Schools": 1323
                     },
                     "id": "Bhandara",
                     "arcs": [
@@ -1659,7 +1659,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Maharashtra",
                         "dummy": 11,
-                        "Num_Schools": 0
+                        "Num_Schools": 3686
                     },
                     "id": "Bid",
                     "arcs": [
@@ -1682,7 +1682,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Maharashtra",
                         "dummy": 26,
-                        "Num_Schools": 0
+                        "Num_Schools": 2475
                     },
                     "id": "Buldana",
                     "arcs": [
@@ -1705,7 +1705,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Maharashtra",
                         "dummy": 71,
-                        "Num_Schools": 0
+                        "Num_Schools": 2507
                     },
                     "id": "Chandrapur",
                     "arcs": [
@@ -1727,7 +1727,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Maharashtra",
                         "dummy": 64,
-                        "Num_Schools": 0
+                        "Num_Schools": 2015
                     },
                     "id": "Dhule",
                     "arcs": [
@@ -1774,7 +1774,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Maharashtra",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 1664
                     },
                     "id": "Gondiya",
                     "arcs": [
@@ -1816,7 +1816,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Maharashtra",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 1325
                     },
                     "id": "Hingoli",
                     "arcs": [
@@ -1836,7 +1836,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Maharashtra",
                         "dummy": 34,
-                        "Num_Schools": 0
+                        "Num_Schools": 3399
                     },
                     "id": "Jalgaon",
                     "arcs": [
@@ -1860,7 +1860,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Maharashtra",
                         "dummy": 48,
-                        "Num_Schools": 0
+                        "Num_Schools": 2437
                     },
                     "id": "Jalna",
                     "arcs": [
@@ -1881,7 +1881,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Maharashtra",
                         "dummy": 94,
-                        "Num_Schools": 0
+                        "Num_Schools": 3712
                     },
                     "id": "Kolhapur",
                     "arcs": [
@@ -1901,7 +1901,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Maharashtra",
                         "dummy": 30,
-                        "Num_Schools": 0
+                        "Num_Schools": 2715
                     },
                     "id": "Latur",
                     "arcs": [
@@ -1922,7 +1922,7 @@
                         "FemaleLiteracy": 85,
                         "NAME_1": "Maharashtra",
                         "dummy": 77,
-                        "Num_Schools": 0
+                        "Num_Schools": 4142
                     },
                     "id": "Nagpur",
                     "arcs": [
@@ -1945,7 +1945,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Maharashtra",
                         "dummy": 80,
-                        "Num_Schools": 0
+                        "Num_Schools": 3731
                     },
                     "id": "Nanded",
                     "arcs": [
@@ -1968,7 +1968,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Maharashtra",
                         "dummy": 11,
-                        "Num_Schools": 0
+                        "Num_Schools": 2067
                     },
                     "id": "Nandurbar",
                     "arcs": [
@@ -1990,7 +1990,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Maharashtra",
                         "dummy": 62,
-                        "Num_Schools": 0
+                        "Num_Schools": 5626
                     },
                     "id": "Nashik",
                     "arcs": [
@@ -2014,7 +2014,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Maharashtra",
                         "dummy": 22,
-                        "Num_Schools": 0
+                        "Num_Schools": 1843
                     },
                     "id": "Osmanabad",
                     "arcs": [
@@ -2035,7 +2035,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Maharashtra",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 2107
                     },
                     "id": "Parbhani",
                     "arcs": [
@@ -2058,7 +2058,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 87,
-                        "Num_Schools": 0
+                        "Num_Schools": 3085
                     },
                     "id": "Balaghat",
                     "arcs": [
@@ -2085,7 +2085,7 @@
                         "FemaleLiteracy": 43,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 90,
-                        "Num_Schools": 0
+                        "Num_Schools": 3538
                     },
                     "id": "Barwani",
                     "arcs": [
@@ -2107,7 +2107,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 65,
-                        "Num_Schools": 0
+                        "Num_Schools": 3143
                     },
                     "id": "Betul",
                     "arcs": [
@@ -2128,7 +2128,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 23,
-                        "Num_Schools": 0
+                        "Num_Schools": 2896
                     },
                     "id": "Bhind",
                     "arcs": [
@@ -2152,7 +2152,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 70,
-                        "Num_Schools": 0
+                        "Num_Schools": 2946
                     },
                     "id": "Bhopal",
                     "arcs": [
@@ -2173,7 +2173,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 97,
-                        "Num_Schools": 0
+                        "Num_Schools": 898
                     },
                     "id": "Burhanpur",
                     "arcs": [
@@ -2194,7 +2194,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 55,
-                        "Num_Schools": 0
+                        "Num_Schools": 3179
                     },
                     "id": "Chhatarpur",
                     "arcs": [
@@ -2218,7 +2218,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 55,
-                        "Num_Schools": 0
+                        "Num_Schools": 4057
                     },
                     "id": "Chhindwara",
                     "arcs": [
@@ -2240,7 +2240,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 1,
-                        "Num_Schools": 0
+                        "Num_Schools": 2183
                     },
                     "id": "Damoh",
                     "arcs": [
@@ -2262,7 +2262,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Rajasthan",
                         "dummy": 89,
-                        "Num_Schools": 0
+                        "Num_Schools": 2171
                     },
                     "id": "Karauli",
                     "arcs": [
@@ -2284,7 +2284,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Rajasthan",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 2329
                     },
                     "id": "Kota",
                     "arcs": [
@@ -2308,7 +2308,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Rajasthan",
                         "dummy": 28,
-                        "Num_Schools": 0
+                        "Num_Schools": 4839
                     },
                     "id": "Nagaur",
                     "arcs": [
@@ -2331,7 +2331,7 @@
                         "FemaleLiteracy": 48,
                         "NAME_1": "Rajasthan",
                         "dummy": 28,
-                        "Num_Schools": 0
+                        "Num_Schools": 2931
                     },
                     "id": "Pali",
                     "arcs": [
@@ -2357,7 +2357,7 @@
                         "FemaleLiteracy": 48,
                         "NAME_1": "Rajasthan",
                         "dummy": 90,
-                        "Num_Schools": 0
+                        "Num_Schools": 2233
                     },
                     "id": "Rajsamand",
                     "arcs": [
@@ -2380,7 +2380,7 @@
                         "FemaleLiteracy": 48,
                         "NAME_1": "Rajasthan",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 1975
                     },
                     "id": "Sawai Madhopur",
                     "arcs": [
@@ -2401,7 +2401,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Rajasthan",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 3530
                     },
                     "id": "Sikar",
                     "arcs": [
@@ -2422,7 +2422,7 @@
                         "FemaleLiteracy": 40,
                         "NAME_1": "Rajasthan",
                         "dummy": 60,
-                        "Num_Schools": 0
+                        "Num_Schools": 1414
                     },
                     "id": "Sirohi",
                     "arcs": [
@@ -2443,7 +2443,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 41,
-                        "Num_Schools": 0
+                        "Num_Schools": 2250
                     },
                     "id": "Madurai",
                     "arcs": [
@@ -2464,7 +2464,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 5,
-                        "Num_Schools": 0
+                        "Num_Schools": 1540
                     },
                     "id": "Nagapattinam",
                     "arcs": [
@@ -2494,7 +2494,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 71,
-                        "Num_Schools": 0
+                        "Num_Schools": 1371
                     },
                     "id": "Namakkal",
                     "arcs": [
@@ -2536,7 +2536,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 24,
-                        "Num_Schools": 0
+                        "Num_Schools": 519
                     },
                     "id": "Perambalur",
                     "arcs": [
@@ -2557,7 +2557,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 4,
-                        "Num_Schools": 0
+                        "Num_Schools": 1958
                     },
                     "id": "Pudukkottai",
                     "arcs": [
@@ -2578,7 +2578,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 97,
-                        "Num_Schools": 0
+                        "Num_Schools": 1529
                     },
                     "id": "Ramanathapuram",
                     "arcs": [
@@ -2612,7 +2612,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 83,
-                        "Num_Schools": 0
+                        "Num_Schools": 2454
                     },
                     "id": "Salem",
                     "arcs": [
@@ -2837,7 +2837,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 52,
-                        "Num_Schools": 0
+                        "Num_Schools": 1456
                     },
                     "id": "Adilabad",
                     "arcs": [
@@ -2859,7 +2859,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 18,
-                        "Num_Schools": 0
+                        "Num_Schools": 5226
                     },
                     "id": "Anantapur",
                     "arcs": [
@@ -2884,7 +2884,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 92,
-                        "Num_Schools": 0
+                        "Num_Schools": 6377
                     },
                     "id": "Chittoor",
                     "arcs": [
@@ -2928,7 +2928,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 65,
-                        "Num_Schools": 0
+                        "Num_Schools": 6290
                     },
                     "id": "East Godavari",
                     "arcs": [
@@ -2966,7 +2966,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 72,
-                        "Num_Schools": 0
+                        "Num_Schools": 5090
                     },
                     "id": "Guntur",
                     "arcs": [
@@ -2989,7 +2989,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 59,
-                        "Num_Schools": 0
+                        "Num_Schools": 3138
                     },
                     "id": "Hyderabad",
                     "arcs": [
@@ -3006,7 +3006,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 28,
-                        "Num_Schools": 0
+                        "Num_Schools": 1064
                     },
                     "id": "Karimnagar",
                     "arcs": [
@@ -3028,7 +3028,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 1696
                     },
                     "id": "Khammam",
                     "arcs": [
@@ -3051,7 +3051,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 99,
-                        "Num_Schools": 0
+                        "Num_Schools": 4646
                     },
                     "id": "Krishna",
                     "arcs": [
@@ -3074,7 +3074,7 @@
                         "FemaleLiteracy": 51,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 28,
-                        "Num_Schools": 0
+                        "Num_Schools": 4566
                     },
                     "id": "Kurnool",
                     "arcs": [
@@ -3119,7 +3119,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 2,
-                        "Num_Schools": 0
+                        "Num_Schools": 1091
                     },
                     "id": "Medak",
                     "arcs": [
@@ -3142,7 +3142,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 10,
-                        "Num_Schools": 0
+                        "Num_Schools": 2105
                     },
                     "id": "Nalgonda",
                     "arcs": [
@@ -3165,7 +3165,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 4646
                     },
                     "id": "Nellore",
                     "arcs": [
@@ -3193,7 +3193,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 1809
                     },
                     "id": "Nizamabad",
                     "arcs": [
@@ -3214,7 +3214,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 89,
-                        "Num_Schools": 0
+                        "Num_Schools": 4561
                     },
                     "id": "Prakasam",
                     "arcs": [
@@ -3261,7 +3261,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 61,
-                        "Num_Schools": 0
+                        "Num_Schools": 3977
                     },
                     "id": "Srikakulam",
                     "arcs": [
@@ -3307,7 +3307,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 3484
                     },
                     "id": "Vizianagaram",
                     "arcs": [
@@ -3349,7 +3349,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Andhra Pradesh",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 4605
                     },
                     "id": "West Godavari",
                     "arcs": [
@@ -3369,7 +3369,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 17,
-                        "Num_Schools": 0
+                        "Num_Schools": 346
                     },
                     "id": "Changlang",
                     "arcs": [
@@ -3389,7 +3389,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 63,
-                        "Num_Schools": 0
+                        "Num_Schools": 192
                     },
                     "id": "East Kameng",
                     "arcs": [
@@ -3409,7 +3409,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 162
                     },
                     "id": "East Siang",
                     "arcs": [
@@ -3429,7 +3429,7 @@
                         "FemaleLiteracy": 44,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 28,
-                        "Num_Schools": 0
+                        "Num_Schools": 121
                     },
                     "id": "Kurung Kumey",
                     "arcs": [
@@ -3451,7 +3451,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 67,
-                        "Num_Schools": 0
+                        "Num_Schools": 105
                     },
                     "id": "Lohit",
                     "arcs": [
@@ -3471,7 +3471,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 45,
-                        "Num_Schools": 0
+                        "Num_Schools": 101
                     },
                     "id": "Lower Dibang Valley",
                     "arcs": [
@@ -3493,7 +3493,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Arunachal Pradesh",
                         "dummy": 56,
-                        "Num_Schools": 0
+                        "Num_Schools": 150
                     },
                     "id": "Lower Subansiri",
                     "arcs": [
@@ -3515,7 +3515,7 @@
                         "FemaleLiteracy": 43,
                         "NAME_1": "Bihar",
                         "dummy": 73,
-                        "Num_Schools": 0
+                        "Num_Schools": 2552
                     },
                     "id": "Sitamarhi",
                     "arcs": [
@@ -3537,7 +3537,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Bihar",
                         "dummy": 22,
-                        "Num_Schools": 0
+                        "Num_Schools": 2990
                     },
                     "id": "Siwan",
                     "arcs": [
@@ -3557,7 +3557,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Bihar",
                         "dummy": 34,
-                        "Num_Schools": 0
+                        "Num_Schools": 2145
                     },
                     "id": "Supaul",
                     "arcs": [
@@ -3578,7 +3578,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Bihar",
                         "dummy": 18,
-                        "Num_Schools": 0
+                        "Num_Schools": 2660
                     },
                     "id": "Vaishali",
                     "arcs": [
@@ -3598,7 +3598,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Chandigarh",
                         "dummy": 88,
-                        "Num_Schools": 0
+                        "Num_Schools": 229
                     },
                     "id": "Chandigarh",
                     "arcs": [
@@ -3640,7 +3640,7 @@
                         "FemaleLiteracy": 79,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 2,
-                        "Num_Schools": 0
+                        "Num_Schools": 3446
                     },
                     "id": "Bilaspur",
                     "arcs": [
@@ -3672,7 +3672,7 @@
                         "FemaleLiteracy": 33,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 908
                     },
                     "id": "Dantewada",
                     "arcs": [
@@ -3694,7 +3694,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 1727
                     },
                     "id": "Dhamtari",
                     "arcs": [
@@ -3715,7 +3715,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 1746
                     },
                     "id": "Durg",
                     "arcs": [
@@ -3757,7 +3757,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 2650
                     },
                     "id": "Jashpur",
                     "arcs": [
@@ -3778,7 +3778,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 1,
-                        "Num_Schools": 0
+                        "Num_Schools": 2606
                     },
                     "id": "Kanker",
                     "arcs": [
@@ -3799,7 +3799,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 1834
                     },
                     "id": "Kawardha",
                     "arcs": [
@@ -3820,7 +3820,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 69,
-                        "Num_Schools": 0
+                        "Num_Schools": 2501
                     },
                     "id": "Korba",
                     "arcs": [
@@ -3844,7 +3844,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 1762
                     },
                     "id": "Koriya",
                     "arcs": [
@@ -3866,7 +3866,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 2245
                     },
                     "id": "Mahasamund",
                     "arcs": [
@@ -3886,7 +3886,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 87,
-                        "Num_Schools": 0
+                        "Num_Schools": 3551
                     },
                     "id": "Raigarh",
                     "arcs": [
@@ -3911,7 +3911,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 24,
-                        "Num_Schools": 0
+                        "Num_Schools": 2430
                     },
                     "id": "Raipur",
                     "arcs": [
@@ -3959,7 +3959,7 @@
                         "FemaleLiteracy": 51,
                         "NAME_1": "Chhattisgarh",
                         "dummy": 95,
-                        "Num_Schools": 0
+                        "Num_Schools": 2353
                     },
                     "id": "Surguja",
                     "arcs": [
@@ -4002,7 +4002,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Daman and Diu",
                         "dummy": 26,
-                        "Num_Schools": 0
+                        "Num_Schools": 92
                     },
                     "id": "Daman",
                     "arcs": [
@@ -4020,7 +4020,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Daman and Diu",
                         "dummy": 50,
-                        "Num_Schools": 0
+                        "Num_Schools": 1580
                     },
                     "id": "Junagadh",
                     "arcs": [
@@ -4077,7 +4077,7 @@
                         "FemaleLiteracy": 84,
                         "NAME_1": "Goa",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 686
                     },
                     "id": "North Goa",
                     "arcs": [
@@ -4099,7 +4099,7 @@
                         "FemaleLiteracy": 79,
                         "NAME_1": "Goa",
                         "dummy": 24,
-                        "Num_Schools": 0
+                        "Num_Schools": 796
                     },
                     "id": "South Goa",
                     "arcs": [
@@ -4151,7 +4151,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Gujarat",
                         "dummy": 50,
-                        "Num_Schools": 0
+                        "Num_Schools": 1295
                     },
                     "id": "Amreli",
                     "arcs": [
@@ -4179,7 +4179,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Gujarat",
                         "dummy": 82,
-                        "Num_Schools": 0
+                        "Num_Schools": 1664
                     },
                     "id": "Anand",
                     "arcs": [
@@ -4207,7 +4207,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Gujarat",
                         "dummy": 15,
-                        "Num_Schools": 0
+                        "Num_Schools": 3372
                     },
                     "id": "Banas Kantha",
                     "arcs": [
@@ -4229,7 +4229,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Gujarat",
                         "dummy": 45,
-                        "Num_Schools": 0
+                        "Num_Schools": 1456
                     },
                     "id": "Bharuch",
                     "arcs": [
@@ -4251,7 +4251,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Gujarat",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 1664
                     },
                     "id": "Bhavnagar",
                     "arcs": [
@@ -4303,7 +4303,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Gujarat",
                         "dummy": 33,
-                        "Num_Schools": 0
+                        "Num_Schools": 1443
                     },
                     "id": "Gandhinagar",
                     "arcs": [
@@ -4323,7 +4323,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Gujarat",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 1358
                     },
                     "id": "Jamnagar",
                     "arcs": [
@@ -4360,7 +4360,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Gujarat",
                         "dummy": 70,
-                        "Num_Schools": 0
+                        "Num_Schools": 1580
                     },
                     "id": "Junagadh",
                     "arcs": [
@@ -4396,7 +4396,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Gujarat",
                         "dummy": 56,
-                        "Num_Schools": 0
+                        "Num_Schools": 2516
                     },
                     "id": "Kachchh",
                     "arcs": [
@@ -4492,7 +4492,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Gujarat",
                         "dummy": 52,
-                        "Num_Schools": 0
+                        "Num_Schools": 1982
                     },
                     "id": "Kheda",
                     "arcs": [
@@ -4514,7 +4514,7 @@
                         "FemaleLiteracy": 76,
                         "NAME_1": "Gujarat",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 1639
                     },
                     "id": "Mahesana",
                     "arcs": [
@@ -4536,7 +4536,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Gujarat",
                         "dummy": 74,
-                        "Num_Schools": 0
+                        "Num_Schools": 904
                     },
                     "id": "Narmada",
                     "arcs": [
@@ -4556,7 +4556,7 @@
                         "FemaleLiteracy": 79,
                         "NAME_1": "Gujarat",
                         "dummy": 75,
-                        "Num_Schools": 0
+                        "Num_Schools": 1104
                     },
                     "id": "Navsari",
                     "arcs": [
@@ -4579,7 +4579,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Gujarat",
                         "dummy": 48,
-                        "Num_Schools": 0
+                        "Num_Schools": 1862
                     },
                     "id": "Panch Mahals",
                     "arcs": [
@@ -4600,7 +4600,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Gujarat",
                         "dummy": 94,
-                        "Num_Schools": 0
+                        "Num_Schools": 1207
                     },
                     "id": "Patan",
                     "arcs": [
@@ -4620,7 +4620,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Gujarat",
                         "dummy": 75,
-                        "Num_Schools": 0
+                        "Num_Schools": 534
                     },
                     "id": "Porbandar",
                     "arcs": [
@@ -4642,7 +4642,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Gujarat",
                         "dummy": 90,
-                        "Num_Schools": 0
+                        "Num_Schools": 2791
                     },
                     "id": "Rajkot",
                     "arcs": [
@@ -4665,7 +4665,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Gujarat",
                         "dummy": 72,
-                        "Num_Schools": 0
+                        "Num_Schools": 1803
                     },
                     "id": "Sabar Kantha",
                     "arcs": [
@@ -4689,7 +4689,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Gujarat",
                         "dummy": 25,
-                        "Num_Schools": 0
+                        "Num_Schools": 3278
                     },
                     "id": "Surat",
                     "arcs": [
@@ -4719,7 +4719,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Gujarat",
                         "dummy": 84,
-                        "Num_Schools": 0
+                        "Num_Schools": 1452
                     },
                     "id": "Surendranagar",
                     "arcs": [
@@ -4741,7 +4741,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Gujarat",
                         "dummy": 62,
-                        "Num_Schools": 0
+                        "Num_Schools": 487
                     },
                     "id": "The Dangs",
                     "arcs": [
@@ -4761,7 +4761,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Gujarat",
                         "dummy": 49,
-                        "Num_Schools": 0
+                        "Num_Schools": 2127
                     },
                     "id": "Vadodara",
                     "arcs": [
@@ -4786,7 +4786,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Gujarat",
                         "dummy": 66,
-                        "Num_Schools": 0
+                        "Num_Schools": 1510
                     },
                     "id": "Valsad",
                     "arcs": [
@@ -4810,7 +4810,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Haryana",
                         "dummy": 50,
-                        "Num_Schools": 0
+                        "Num_Schools": 1092
                     },
                     "id": "Ambala",
                     "arcs": [
@@ -4831,7 +4831,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Haryana",
                         "dummy": 88,
-                        "Num_Schools": 0
+                        "Num_Schools": 1170
                     },
                     "id": "Bhiwani",
                     "arcs": [
@@ -4854,7 +4854,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Haryana",
                         "dummy": 22,
-                        "Num_Schools": 0
+                        "Num_Schools": 1537
                     },
                     "id": "Faridabad",
                     "arcs": [
@@ -4875,7 +4875,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Haryana",
                         "dummy": 49,
-                        "Num_Schools": 0
+                        "Num_Schools": 894
                     },
                     "id": "Fatehabad",
                     "arcs": [
@@ -4920,7 +4920,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Haryana",
                         "dummy": 7,
-                        "Num_Schools": 0
+                        "Num_Schools": 1566
                     },
                     "id": "Hisar",
                     "arcs": [
@@ -4941,7 +4941,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Haryana",
                         "dummy": 71,
-                        "Num_Schools": 0
+                        "Num_Schools": 905
                     },
                     "id": "Jhajjar",
                     "arcs": [
@@ -4964,7 +4964,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Haryana",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 1115
                     },
                     "id": "Jind",
                     "arcs": [
@@ -4989,7 +4989,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Haryana",
                         "dummy": 35,
-                        "Num_Schools": 0
+                        "Num_Schools": 951
                     },
                     "id": "Kaithal",
                     "arcs": [
@@ -5009,7 +5009,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Haryana",
                         "dummy": 75,
-                        "Num_Schools": 0
+                        "Num_Schools": 1325
                     },
                     "id": "Karnal",
                     "arcs": [
@@ -5031,7 +5031,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Haryana",
                         "dummy": 64,
-                        "Num_Schools": 0
+                        "Num_Schools": 1102
                     },
                     "id": "Kurukshetra",
                     "arcs": [
@@ -5053,7 +5053,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Haryana",
                         "dummy": 2,
-                        "Num_Schools": 0
+                        "Num_Schools": 1027
                     },
                     "id": "Mahendragarh",
                     "arcs": [
@@ -5076,7 +5076,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Haryana",
                         "dummy": 76,
-                        "Num_Schools": 0
+                        "Num_Schools": 574
                     },
                     "id": "Panchkula",
                     "arcs": [
@@ -5098,7 +5098,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Haryana",
                         "dummy": 48,
-                        "Num_Schools": 0
+                        "Num_Schools": 991
                     },
                     "id": "Panipat",
                     "arcs": [
@@ -5119,7 +5119,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Haryana",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 952
                     },
                     "id": "Rewari",
                     "arcs": [
@@ -5139,7 +5139,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Haryana",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 807
                     },
                     "id": "Rohtak",
                     "arcs": [
@@ -5160,7 +5160,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Haryana",
                         "dummy": 94,
-                        "Num_Schools": 0
+                        "Num_Schools": 1180
                     },
                     "id": "Sirsa",
                     "arcs": [
@@ -5223,7 +5223,7 @@
                         "FemaleLiteracy": 79,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 90,
-                        "Num_Schools": 0
+                        "Num_Schools": 3446
                     },
                     "id": "Bilaspur",
                     "arcs": [
@@ -5244,7 +5244,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 36,
-                        "Num_Schools": 0
+                        "Num_Schools": 1844
                     },
                     "id": "Chamba",
                     "arcs": [
@@ -5286,7 +5286,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 96,
-                        "Num_Schools": 0
+                        "Num_Schools": 3142
                     },
                     "id": "Kangra",
                     "arcs": [
@@ -5310,7 +5310,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 92,
-                        "Num_Schools": 0
+                        "Num_Schools": 304
                     },
                     "id": "Kinnaur",
                     "arcs": [
@@ -5331,7 +5331,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 1224
                     },
                     "id": "Kullu",
                     "arcs": [
@@ -5376,7 +5376,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 2844
                     },
                     "id": "Mandi",
                     "arcs": [
@@ -5398,7 +5398,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 46,
-                        "Num_Schools": 0
+                        "Num_Schools": 2643
                     },
                     "id": "Shimla",
                     "arcs": [
@@ -5421,7 +5421,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 100,
-                        "Num_Schools": 0
+                        "Num_Schools": 1636
                     },
                     "id": "Sirmaur",
                     "arcs": [
@@ -5444,7 +5444,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 2,
-                        "Num_Schools": 0
+                        "Num_Schools": 1373
                     },
                     "id": "Solan",
                     "arcs": [
@@ -5466,7 +5466,7 @@
                         "FemaleLiteracy": 82,
                         "NAME_1": "Himachal Pradesh",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 917
                     },
                     "id": "Una",
                     "arcs": [
@@ -5553,7 +5553,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 26,
-                        "Num_Schools": 0
+                        "Num_Schools": 1504
                     },
                     "id": "Doda",
                     "arcs": [
@@ -5574,7 +5574,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 70,
-                        "Num_Schools": 0
+                        "Num_Schools": 2451
                     },
                     "id": "Jammu",
                     "arcs": [
@@ -5594,7 +5594,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 23,
-                        "Num_Schools": 0
+                        "Num_Schools": 618
                     },
                     "id": "Kargil",
                     "arcs": [
@@ -5616,7 +5616,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 71,
-                        "Num_Schools": 0
+                        "Num_Schools": 1807
                     },
                     "id": "Kathua",
                     "arcs": [
@@ -5674,7 +5674,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 26,
-                        "Num_Schools": 0
+                        "Num_Schools": 1105
                     },
                     "id": "Pulwama",
                     "arcs": [
@@ -5693,7 +5693,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 1763
                     },
                     "id": "Punch",
                     "arcs": [
@@ -5714,7 +5714,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 33,
-                        "Num_Schools": 0
+                        "Num_Schools": 2073
                     },
                     "id": "Rajauri",
                     "arcs": [
@@ -5735,7 +5735,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 59,
-                        "Num_Schools": 0
+                        "Num_Schools": 1007
                     },
                     "id": "Srinagar",
                     "arcs": [
@@ -5755,7 +5755,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Jammu and Kashmir",
                         "dummy": 52,
-                        "Num_Schools": 0
+                        "Num_Schools": 1774
                     },
                     "id": "Udhampur",
                     "arcs": [
@@ -5777,7 +5777,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Jharkhand",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 2205
                     },
                     "id": "Bokaro",
                     "arcs": [
@@ -5797,7 +5797,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Jharkhand",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 1865
                     },
                     "id": "Chatra",
                     "arcs": [
@@ -5818,7 +5818,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Jharkhand",
                         "dummy": 37,
-                        "Num_Schools": 0
+                        "Num_Schools": 2275
                     },
                     "id": "Deoghar",
                     "arcs": [
@@ -5839,7 +5839,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Jharkhand",
                         "dummy": 78,
-                        "Num_Schools": 0
+                        "Num_Schools": 2548
                     },
                     "id": "Dhanbad",
                     "arcs": [
@@ -5860,7 +5860,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Jharkhand",
                         "dummy": 61,
-                        "Num_Schools": 0
+                        "Num_Schools": 2611
                     },
                     "id": "Dumka",
                     "arcs": [
@@ -5882,7 +5882,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Jharkhand",
                         "dummy": 92,
-                        "Num_Schools": 0
+                        "Num_Schools": 1646
                     },
                     "id": "Garhwa",
                     "arcs": [
@@ -5903,7 +5903,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Jharkhand",
                         "dummy": 47,
-                        "Num_Schools": 0
+                        "Num_Schools": 3932
                     },
                     "id": "Giridih",
                     "arcs": [
@@ -5927,7 +5927,7 @@
                         "FemaleLiteracy": 45,
                         "NAME_1": "Jharkhand",
                         "dummy": 81,
-                        "Num_Schools": 0
+                        "Num_Schools": 1778
                     },
                     "id": "Godda",
                     "arcs": [
@@ -5948,7 +5948,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Jharkhand",
                         "dummy": 66,
-                        "Num_Schools": 0
+                        "Num_Schools": 1828
                     },
                     "id": "Gumla",
                     "arcs": [
@@ -5970,7 +5970,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Jharkhand",
                         "dummy": 33,
-                        "Num_Schools": 0
+                        "Num_Schools": 2348
                     },
                     "id": "Hazaribag",
                     "arcs": [
@@ -5994,7 +5994,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Jharkhand",
                         "dummy": 96,
-                        "Num_Schools": 0
+                        "Num_Schools": 1137
                     },
                     "id": "Jamtara",
                     "arcs": [
@@ -6035,7 +6035,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Jharkhand",
                         "dummy": 25,
-                        "Num_Schools": 0
+                        "Num_Schools": 1244
                     },
                     "id": "Latehar",
                     "arcs": [
@@ -6058,7 +6058,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Jharkhand",
                         "dummy": 91,
-                        "Num_Schools": 0
+                        "Num_Schools": 705
                     },
                     "id": "Lohardaga",
                     "arcs": [
@@ -6098,7 +6098,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Jharkhand",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 2971
                     },
                     "id": "Palamu",
                     "arcs": [
@@ -6159,7 +6159,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Jharkhand",
                         "dummy": 4,
-                        "Num_Schools": 0
+                        "Num_Schools": 3438
                     },
                     "id": "Ranchi",
                     "arcs": [
@@ -6184,7 +6184,7 @@
                         "FemaleLiteracy": 44,
                         "NAME_1": "Jharkhand",
                         "dummy": 7,
-                        "Num_Schools": 0
+                        "Num_Schools": 1558
                     },
                     "id": "Sahibganj",
                     "arcs": [
@@ -6227,7 +6227,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Jharkhand",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 1123
                     },
                     "id": "Simdega",
                     "arcs": [
@@ -6248,7 +6248,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Karnataka",
                         "dummy": 80,
-                        "Num_Schools": 0
+                        "Num_Schools": 2384
                     },
                     "id": "Bagalkot",
                     "arcs": [
@@ -6359,7 +6359,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Karnataka",
                         "dummy": 41,
-                        "Num_Schools": 0
+                        "Num_Schools": 2845
                     },
                     "id": "Bidar",
                     "arcs": [
@@ -6381,7 +6381,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Karnataka",
                         "dummy": 17,
-                        "Num_Schools": 0
+                        "Num_Schools": 811
                     },
                     "id": "Bijapur",
                     "arcs": [
@@ -6449,7 +6449,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Karnataka",
                         "dummy": 92,
-                        "Num_Schools": 0
+                        "Num_Schools": 2491
                     },
                     "id": "Chitradurga",
                     "arcs": [
@@ -6497,7 +6497,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Karnataka",
                         "dummy": 84,
-                        "Num_Schools": 0
+                        "Num_Schools": 2125
                     },
                     "id": "Davanagere",
                     "arcs": [
@@ -6518,7 +6518,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Karnataka",
                         "dummy": 93,
-                        "Num_Schools": 0
+                        "Num_Schools": 1683
                     },
                     "id": "Dharwad",
                     "arcs": [
@@ -6538,7 +6538,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Karnataka",
                         "dummy": 31,
-                        "Num_Schools": 0
+                        "Num_Schools": 1221
                     },
                     "id": "Gadag",
                     "arcs": [
@@ -6584,7 +6584,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Karnataka",
                         "dummy": 45,
-                        "Num_Schools": 0
+                        "Num_Schools": 3236
                     },
                     "id": "Hassan",
                     "arcs": [
@@ -6606,7 +6606,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Karnataka",
                         "dummy": 26,
-                        "Num_Schools": 0
+                        "Num_Schools": 2012
                     },
                     "id": "Haveri",
                     "arcs": [
@@ -6628,7 +6628,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Karnataka",
                         "dummy": 100,
-                        "Num_Schools": 0
+                        "Num_Schools": 658
                     },
                     "id": "Kodagu",
                     "arcs": [
@@ -6650,7 +6650,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Karnataka",
                         "dummy": 83,
-                        "Num_Schools": 0
+                        "Num_Schools": 2521
                     },
                     "id": "Kolar",
                     "arcs": [
@@ -6671,7 +6671,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Karnataka",
                         "dummy": 17,
-                        "Num_Schools": 0
+                        "Num_Schools": 1726
                     },
                     "id": "Koppal",
                     "arcs": [
@@ -6691,7 +6691,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Karnataka",
                         "dummy": 41,
-                        "Num_Schools": 0
+                        "Num_Schools": 2469
                     },
                     "id": "Mandya",
                     "arcs": [
@@ -6733,7 +6733,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Karnataka",
                         "dummy": 52,
-                        "Num_Schools": 0
+                        "Num_Schools": 2551
                     },
                     "id": "Raichur",
                     "arcs": [
@@ -6808,7 +6808,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Karnataka",
                         "dummy": 19,
-                        "Num_Schools": 0
+                        "Num_Schools": 1185
                     },
                     "id": "Udupi",
                     "arcs": [
@@ -6869,7 +6869,7 @@
                         "FemaleLiteracy": 95,
                         "NAME_1": "Kerala",
                         "dummy": 33,
-                        "Num_Schools": 0
+                        "Num_Schools": 1010
                     },
                     "id": "Alappuzha",
                     "arcs": [
@@ -6909,7 +6909,7 @@
                         "FemaleLiteracy": 94,
                         "NAME_1": "Kerala",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 1373
                     },
                     "id": "Ernakulam",
                     "arcs": [
@@ -6948,7 +6948,7 @@
                         "FemaleLiteracy": 90,
                         "NAME_1": "Kerala",
                         "dummy": 76,
-                        "Num_Schools": 0
+                        "Num_Schools": 687
                     },
                     "id": "Idukki",
                     "arcs": [
@@ -6973,7 +6973,7 @@
                         "FemaleLiteracy": 94,
                         "NAME_1": "Kerala",
                         "dummy": 65,
-                        "Num_Schools": 0
+                        "Num_Schools": 1608
                     },
                     "id": "Kannur",
                     "arcs": [
@@ -6998,7 +6998,7 @@
                         "FemaleLiteracy": 86,
                         "NAME_1": "Kerala",
                         "dummy": 3,
-                        "Num_Schools": 0
+                        "Num_Schools": 778
                     },
                     "id": "Kasaragod",
                     "arcs": [
@@ -7020,7 +7020,7 @@
                         "FemaleLiteracy": 92,
                         "NAME_1": "Kerala",
                         "dummy": 13,
-                        "Num_Schools": 0
+                        "Num_Schools": 1251
                     },
                     "id": "Kollam",
                     "arcs": [
@@ -7041,7 +7041,7 @@
                         "FemaleLiteracy": 96,
                         "NAME_1": "Kerala",
                         "dummy": 90,
-                        "Num_Schools": 0
+                        "Num_Schools": 1135
                     },
                     "id": "Kottayam",
                     "arcs": [
@@ -7072,7 +7072,7 @@
                         "FemaleLiteracy": 93,
                         "NAME_1": "Kerala",
                         "dummy": 91,
-                        "Num_Schools": 0
+                        "Num_Schools": 1598
                     },
                     "id": "Kozhikode",
                     "arcs": [
@@ -7094,7 +7094,7 @@
                         "FemaleLiteracy": 92,
                         "NAME_1": "Kerala",
                         "dummy": 48,
-                        "Num_Schools": 0
+                        "Num_Schools": 1926
                     },
                     "id": "Malappuram",
                     "arcs": [
@@ -7116,7 +7116,7 @@
                         "FemaleLiteracy": 85,
                         "NAME_1": "Kerala",
                         "dummy": 31,
-                        "Num_Schools": 0
+                        "Num_Schools": 1273
                     },
                     "id": "Palakkad",
                     "arcs": [
@@ -7157,7 +7157,7 @@
                         "FemaleLiteracy": 91,
                         "NAME_1": "Kerala",
                         "dummy": 94,
-                        "Num_Schools": 0
+                        "Num_Schools": 1429
                     },
                     "id": "Thiruvananthapuram",
                     "arcs": [
@@ -7177,7 +7177,7 @@
                         "FemaleLiteracy": 94,
                         "NAME_1": "Kerala",
                         "dummy": 73,
-                        "Num_Schools": 0
+                        "Num_Schools": 1268
                     },
                     "id": "Thrissur",
                     "arcs": [
@@ -7201,7 +7201,7 @@
                         "FemaleLiteracy": 86,
                         "NAME_1": "Kerala",
                         "dummy": 14,
-                        "Num_Schools": 0
+                        "Num_Schools": 417
                     },
                     "id": "Wayanad",
                     "arcs": [
@@ -7224,7 +7224,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 1921
                     },
                     "id": "Anuppur",
                     "arcs": [
@@ -7243,7 +7243,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 1597
                     },
                     "id": "Ashoknagar",
                     "arcs": [
@@ -7264,7 +7264,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 60,
-                        "Num_Schools": 0
+                        "Num_Schools": 1388
                     },
                     "id": "Datia",
                     "arcs": [
@@ -7284,7 +7284,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 2823
                     },
                     "id": "Dewas",
                     "arcs": [
@@ -7307,7 +7307,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 45,
-                        "Num_Schools": 0
+                        "Num_Schools": 5077
                     },
                     "id": "Dhar",
                     "arcs": [
@@ -7329,7 +7329,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 4,
-                        "Num_Schools": 0
+                        "Num_Schools": 2093
                     },
                     "id": "Dindori",
                     "arcs": [
@@ -7376,7 +7376,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 60,
-                        "Num_Schools": 0
+                        "Num_Schools": 2526
                     },
                     "id": "Guna",
                     "arcs": [
@@ -7399,7 +7399,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 55,
-                        "Num_Schools": 0
+                        "Num_Schools": 3002
                     },
                     "id": "Gwalior",
                     "arcs": [
@@ -7419,7 +7419,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 52,
-                        "Num_Schools": 0
+                        "Num_Schools": 965
                     },
                     "id": "Harda",
                     "arcs": [
@@ -7440,7 +7440,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 20,
-                        "Num_Schools": 0
+                        "Num_Schools": 1955
                     },
                     "id": "Hoshangabad",
                     "arcs": [
@@ -7462,7 +7462,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 3,
-                        "Num_Schools": 0
+                        "Num_Schools": 3731
                     },
                     "id": "Indore",
                     "arcs": [
@@ -7482,7 +7482,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 20,
-                        "Num_Schools": 0
+                        "Num_Schools": 2902
                     },
                     "id": "Jabalpur",
                     "arcs": [
@@ -7505,7 +7505,7 @@
                         "FemaleLiteracy": 34,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 2825
                     },
                     "id": "Jhabua",
                     "arcs": [
@@ -7528,7 +7528,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 65,
-                        "Num_Schools": 0
+                        "Num_Schools": 2067
                     },
                     "id": "Katni",
                     "arcs": [
@@ -7549,7 +7549,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 83,
-                        "Num_Schools": 0
+                        "Num_Schools": 3067
                     },
                     "id": "Mandla",
                     "arcs": [
@@ -7577,7 +7577,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 90,
-                        "Num_Schools": 0
+                        "Num_Schools": 2472
                     },
                     "id": "Mandsaur",
                     "arcs": [
@@ -7599,7 +7599,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 11,
-                        "Num_Schools": 0
+                        "Num_Schools": 3433
                     },
                     "id": "Morena",
                     "arcs": [
@@ -7645,7 +7645,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 49,
-                        "Num_Schools": 0
+                        "Num_Schools": 1410
                     },
                     "id": "Neemuch",
                     "arcs": [
@@ -7665,7 +7665,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 18,
-                        "Num_Schools": 0
+                        "Num_Schools": 2272
                     },
                     "id": "Panna",
                     "arcs": [
@@ -7686,7 +7686,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 23,
-                        "Num_Schools": 0
+                        "Num_Schools": 2596
                     },
                     "id": "Raisen",
                     "arcs": [
@@ -7708,7 +7708,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 59,
-                        "Num_Schools": 0
+                        "Num_Schools": 2920
                     },
                     "id": "Rajgarh",
                     "arcs": [
@@ -7729,7 +7729,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 89,
-                        "Num_Schools": 0
+                        "Num_Schools": 2610
                     },
                     "id": "Ratlam",
                     "arcs": [
@@ -7753,7 +7753,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 73,
-                        "Num_Schools": 0
+                        "Num_Schools": 4461
                     },
                     "id": "Rewa",
                     "arcs": [
@@ -7774,7 +7774,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 3543
                     },
                     "id": "Sagar",
                     "arcs": [
@@ -7797,7 +7797,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 64,
-                        "Num_Schools": 0
+                        "Num_Schools": 4005
                     },
                     "id": "Satna",
                     "arcs": [
@@ -7821,7 +7821,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 3,
-                        "Num_Schools": 0
+                        "Num_Schools": 2354
                     },
                     "id": "Sehore",
                     "arcs": [
@@ -7844,7 +7844,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 89,
-                        "Num_Schools": 0
+                        "Num_Schools": 3215
                     },
                     "id": "Seoni",
                     "arcs": [
@@ -7866,7 +7866,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 80,
-                        "Num_Schools": 0
+                        "Num_Schools": 2520
                     },
                     "id": "Shahdol",
                     "arcs": [
@@ -7889,7 +7889,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 79,
-                        "Num_Schools": 0
+                        "Num_Schools": 1765
                     },
                     "id": "Shajapur",
                     "arcs": [
@@ -7911,7 +7911,7 @@
                         "FemaleLiteracy": 44,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 31,
-                        "Num_Schools": 0
+                        "Num_Schools": 1396
                     },
                     "id": "Sheopur",
                     "arcs": [
@@ -7933,7 +7933,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 3339
                     },
                     "id": "Shivpuri",
                     "arcs": [
@@ -7958,7 +7958,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Madhya Pradesh",
                         "dummy": 77,
-                        "Num_Schools": 0
+                        "Num_Schools": 2378
                     },
                     "id": "Sidhi",
                     "arcs": [
@@ -7981,7 +7981,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Maharashtra",
                         "dummy": 50,
-                        "Num_Schools": 0
+                        "Num_Schools": 7455
                     },
                     "id": "Pune",
                     "arcs": [
@@ -8002,7 +8002,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Maharashtra",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 3551
                     },
                     "id": "Raigarh",
                     "arcs": [
@@ -8026,7 +8026,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Maharashtra",
                         "dummy": 77,
-                        "Num_Schools": 0
+                        "Num_Schools": 3202
                     },
                     "id": "Ratnagiri",
                     "arcs": [
@@ -8050,7 +8050,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Maharashtra",
                         "dummy": 99,
-                        "Num_Schools": 0
+                        "Num_Schools": 2977
                     },
                     "id": "Sangli",
                     "arcs": [
@@ -8072,7 +8072,7 @@
                         "FemaleLiteracy": 76,
                         "NAME_1": "Maharashtra",
                         "dummy": 38,
-                        "Num_Schools": 0
+                        "Num_Schools": 3879
                     },
                     "id": "Satara",
                     "arcs": [
@@ -8093,7 +8093,7 @@
                         "FemaleLiteracy": 80,
                         "NAME_1": "Maharashtra",
                         "dummy": 33,
-                        "Num_Schools": 0
+                        "Num_Schools": 1711
                     },
                     "id": "Sindhudurg",
                     "arcs": [
@@ -8116,7 +8116,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Maharashtra",
                         "dummy": 82,
-                        "Num_Schools": 0
+                        "Num_Schools": 4788
                     },
                     "id": "Solapur",
                     "arcs": [
@@ -8140,7 +8140,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Maharashtra",
                         "dummy": 46,
-                        "Num_Schools": 0
+                        "Num_Schools": 4958
                     },
                     "id": "Thane",
                     "arcs": [
@@ -8167,7 +8167,7 @@
                         "FemaleLiteracy": 82,
                         "NAME_1": "Maharashtra",
                         "dummy": 89,
-                        "Num_Schools": 0
+                        "Num_Schools": 1509
                     },
                     "id": "Wardha",
                     "arcs": [
@@ -8187,7 +8187,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "Maharashtra",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 1379
                     },
                     "id": "Washim",
                     "arcs": [
@@ -8209,7 +8209,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "Maharashtra",
                         "dummy": 60,
-                        "Num_Schools": 0
+                        "Num_Schools": 3353
                     },
                     "id": "Yavatmal",
                     "arcs": [
@@ -8232,7 +8232,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Manipur",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 311
                     },
                     "id": "Bishnupur",
                     "arcs": [
@@ -8252,7 +8252,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Manipur",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 231
                     },
                     "id": "Chandel",
                     "arcs": [
@@ -8273,7 +8273,7 @@
                         "FemaleLiteracy": 80,
                         "NAME_1": "Manipur",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 465
                     },
                     "id": "Churachandpur",
                     "arcs": [
@@ -8326,7 +8326,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Manipur",
                         "dummy": 56,
-                        "Num_Schools": 0
+                        "Num_Schools": 355
                     },
                     "id": "Senapati",
                     "arcs": [
@@ -8352,7 +8352,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Manipur",
                         "dummy": 39,
-                        "Num_Schools": 0
+                        "Num_Schools": 273
                     },
                     "id": "Tamenglong",
                     "arcs": [
@@ -8374,7 +8374,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Manipur",
                         "dummy": 72,
-                        "Num_Schools": 0
+                        "Num_Schools": 364
                     },
                     "id": "Thoubal",
                     "arcs": [
@@ -8395,7 +8395,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Manipur",
                         "dummy": 99,
-                        "Num_Schools": 0
+                        "Num_Schools": 225
                     },
                     "id": "Ukhrul",
                     "arcs": [
@@ -8435,7 +8435,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Meghalaya",
                         "dummy": 59,
-                        "Num_Schools": 0
+                        "Num_Schools": 726
                     },
                     "id": "East Garo Hills",
                     "arcs": [
@@ -8457,7 +8457,7 @@
                         "FemaleLiteracy": 84,
                         "NAME_1": "Meghalaya",
                         "dummy": 16,
-                        "Num_Schools": 0
+                        "Num_Schools": 2910
                     },
                     "id": "East Khasi Hills",
                     "arcs": [
@@ -8521,7 +8521,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Meghalaya",
                         "dummy": 67,
-                        "Num_Schools": 0
+                        "Num_Schools": 1067
                     },
                     "id": "South Garo Hills",
                     "arcs": [
@@ -8541,7 +8541,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Meghalaya",
                         "dummy": 3,
-                        "Num_Schools": 0
+                        "Num_Schools": 2368
                     },
                     "id": "West Garo Hills",
                     "arcs": [
@@ -8564,7 +8564,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Meghalaya",
                         "dummy": 40,
-                        "Num_Schools": 0
+                        "Num_Schools": 1818
                     },
                     "id": "West Khasi Hills",
                     "arcs": [
@@ -8586,7 +8586,7 @@
                         "FemaleLiteracy": 98,
                         "NAME_1": "Mizoram",
                         "dummy": 9,
-                        "Num_Schools": 0
+                        "Num_Schools": 1012
                     },
                     "id": "Aizawl",
                     "arcs": [
@@ -8609,7 +8609,7 @@
                         "FemaleLiteracy": 92,
                         "NAME_1": "Mizoram",
                         "dummy": 11,
-                        "Num_Schools": 0
+                        "Num_Schools": 456
                     },
                     "id": "Champhai",
                     "arcs": [
@@ -8629,7 +8629,7 @@
                         "FemaleLiteracy": 94,
                         "NAME_1": "Mizoram",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 282
                     },
                     "id": "Kolasib",
                     "arcs": [
@@ -8649,7 +8649,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Mizoram",
                         "dummy": 93,
-                        "Num_Schools": 0
+                        "Num_Schools": 563
                     },
                     "id": "Lawngtlai",
                     "arcs": [
@@ -8670,7 +8670,7 @@
                         "FemaleLiteracy": 86,
                         "NAME_1": "Mizoram",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 740
                     },
                     "id": "Lunglei",
                     "arcs": [
@@ -8703,7 +8703,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Mizoram",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 385
                     },
                     "id": "Mamit",
                     "arcs": [
@@ -8734,7 +8734,7 @@
                         "FemaleLiteracy": 86,
                         "NAME_1": "Mizoram",
                         "dummy": 95,
-                        "Num_Schools": 0
+                        "Num_Schools": 259
                     },
                     "id": "Saiha",
                     "arcs": [
@@ -8753,7 +8753,7 @@
                         "FemaleLiteracy": 98,
                         "NAME_1": "Mizoram",
                         "dummy": 54,
-                        "Num_Schools": 0
+                        "Num_Schools": 227
                     },
                     "id": "Serchhip",
                     "arcs": [
@@ -8773,7 +8773,7 @@
                         "FemaleLiteracy": 83,
                         "NAME_1": "Nagaland",
                         "dummy": 76,
-                        "Num_Schools": 0
+                        "Num_Schools": 517
                     },
                     "id": "Dimapur",
                     "arcs": [
@@ -8792,7 +8792,7 @@
                         "FemaleLiteracy": 82,
                         "NAME_1": "Nagaland",
                         "dummy": 87,
-                        "Num_Schools": 0
+                        "Num_Schools": 281
                     },
                     "id": "Kohima",
                     "arcs": [
@@ -8817,7 +8817,7 @@
                         "FemaleLiteracy": 92,
                         "NAME_1": "Nagaland",
                         "dummy": 75,
-                        "Num_Schools": 0
+                        "Num_Schools": 259
                     },
                     "id": "Mokokchung",
                     "arcs": [
@@ -8838,7 +8838,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Nagaland",
                         "dummy": 76,
-                        "Num_Schools": 0
+                        "Num_Schools": 308
                     },
                     "id": "Mon",
                     "arcs": [
@@ -8858,7 +8858,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Nagaland",
                         "dummy": 40,
-                        "Num_Schools": 0
+                        "Num_Schools": 245
                     },
                     "id": "Phek",
                     "arcs": [
@@ -8880,7 +8880,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Nagaland",
                         "dummy": 83,
-                        "Num_Schools": 0
+                        "Num_Schools": 257
                     },
                     "id": "Tuensang",
                     "arcs": [
@@ -8902,7 +8902,7 @@
                         "FemaleLiteracy": 85,
                         "NAME_1": "Nagaland",
                         "dummy": 50,
-                        "Num_Schools": 0
+                        "Num_Schools": 192
                     },
                     "id": "Wokha",
                     "arcs": [
@@ -8923,7 +8923,7 @@
                         "FemaleLiteracy": 84,
                         "NAME_1": "Nagaland",
                         "dummy": 91,
-                        "Num_Schools": 0
+                        "Num_Schools": 282
                     },
                     "id": "Zunheboto",
                     "arcs": [
@@ -8944,7 +8944,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Orissa",
                         "dummy": 62,
-                        "Num_Schools": 0
+                        "Num_Schools": 1943
                     },
                     "id": "Angul",
                     "arcs": [
@@ -8993,7 +8993,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Orissa",
                         "dummy": 47,
-                        "Num_Schools": 0
+                        "Num_Schools": 2095
                     },
                     "id": "Baragarh",
                     "arcs": [
@@ -9016,7 +9016,7 @@
                         "FemaleLiteracy": 76,
                         "NAME_1": "Orissa",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 2262
                     },
                     "id": "Bhadrak",
                     "arcs": [
@@ -9039,7 +9039,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Orissa",
                         "dummy": 52,
-                        "Num_Schools": 0
+                        "Num_Schools": 2668
                     },
                     "id": "Bolangir",
                     "arcs": [
@@ -9061,7 +9061,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Orissa",
                         "dummy": 21,
-                        "Num_Schools": 0
+                        "Num_Schools": 913
                     },
                     "id": "Boudh",
                     "arcs": [
@@ -9082,7 +9082,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Orissa",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 3064
                     },
                     "id": "Cuttack",
                     "arcs": [
@@ -9106,7 +9106,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Orissa",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 672
                     },
                     "id": "Deogarh",
                     "arcs": [
@@ -9125,7 +9125,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Orissa",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 1839
                     },
                     "id": "Dhenkanal",
                     "arcs": [
@@ -9145,7 +9145,7 @@
                         "FemaleLiteracy": 44,
                         "NAME_1": "Orissa",
                         "dummy": 40,
-                        "Num_Schools": 0
+                        "Num_Schools": 1257
                     },
                     "id": "Gajapati",
                     "arcs": [
@@ -9165,7 +9165,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Orissa",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 4344
                     },
                     "id": "Ganjam",
                     "arcs": [
@@ -9196,7 +9196,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Orissa",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 1755
                     },
                     "id": "Jagatsinghpur",
                     "arcs": [
@@ -9230,7 +9230,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Orissa",
                         "dummy": 64,
-                        "Num_Schools": 0
+                        "Num_Schools": 2899
                     },
                     "id": "Jajpur",
                     "arcs": [
@@ -9251,7 +9251,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Orissa",
                         "dummy": 47,
-                        "Num_Schools": 0
+                        "Num_Schools": 828
                     },
                     "id": "Jharsuguda",
                     "arcs": [
@@ -9271,7 +9271,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Orissa",
                         "dummy": 66,
-                        "Num_Schools": 0
+                        "Num_Schools": 2742
                     },
                     "id": "Kalahandi",
                     "arcs": [
@@ -9294,7 +9294,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Orissa",
                         "dummy": 10,
-                        "Num_Schools": 0
+                        "Num_Schools": 2013
                     },
                     "id": "Kandhamal",
                     "arcs": [
@@ -9317,7 +9317,7 @@
                         "FemaleLiteracy": 80,
                         "NAME_1": "Orissa",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 2341
                     },
                     "id": "Kendrapara",
                     "arcs": [
@@ -9350,7 +9350,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Orissa",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 3287
                     },
                     "id": "Keonjhar",
                     "arcs": [
@@ -9394,7 +9394,7 @@
                         "FemaleLiteracy": 39,
                         "NAME_1": "Orissa",
                         "dummy": 97,
-                        "Num_Schools": 0
+                        "Num_Schools": 2725
                     },
                     "id": "Koraput",
                     "arcs": [
@@ -9417,7 +9417,7 @@
                         "FemaleLiteracy": 39,
                         "NAME_1": "Orissa",
                         "dummy": 66,
-                        "Num_Schools": 0
+                        "Num_Schools": 1413
                     },
                     "id": "Malkangiri",
                     "arcs": [
@@ -9439,7 +9439,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Orissa",
                         "dummy": 95,
-                        "Num_Schools": 0
+                        "Num_Schools": 4937
                     },
                     "id": "Mayurbhanj",
                     "arcs": [
@@ -9461,7 +9461,7 @@
                         "FemaleLiteracy": 37,
                         "NAME_1": "Orissa",
                         "dummy": 64,
-                        "Num_Schools": 0
+                        "Num_Schools": 2082
                     },
                     "id": "Nabarangpur",
                     "arcs": [
@@ -9482,7 +9482,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Orissa",
                         "dummy": 68,
-                        "Num_Schools": 0
+                        "Num_Schools": 1449
                     },
                     "id": "Nayagarh",
                     "arcs": [
@@ -9504,7 +9504,7 @@
                         "FemaleLiteracy": 45,
                         "NAME_1": "Orissa",
                         "dummy": 52,
-                        "Num_Schools": 0
+                        "Num_Schools": 1198
                     },
                     "id": "Nuapada",
                     "arcs": [
@@ -9525,7 +9525,7 @@
                         "FemaleLiteracy": 79,
                         "NAME_1": "Orissa",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 2557
                     },
                     "id": "Puri",
                     "arcs": [
@@ -9560,7 +9560,7 @@
                         "FemaleLiteracy": 40,
                         "NAME_1": "Orissa",
                         "dummy": 79,
-                        "Num_Schools": 0
+                        "Num_Schools": 2076
                     },
                     "id": "Rayagada",
                     "arcs": [
@@ -9582,7 +9582,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Orissa",
                         "dummy": 5,
-                        "Num_Schools": 0
+                        "Num_Schools": 1690
                     },
                     "id": "Sambalpur",
                     "arcs": [
@@ -9604,7 +9604,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Orissa",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 1101
                     },
                     "id": "Sonepur",
                     "arcs": [
@@ -9650,7 +9650,7 @@
                         "FemaleLiteracy": 83,
                         "NAME_1": "Puducherry",
                         "dummy": 88,
-                        "Num_Schools": 0
+                        "Num_Schools": 168
                     },
                     "id": "Karaikal",
                     "arcs": [
@@ -9672,7 +9672,7 @@
                         "FemaleLiteracy": 98,
                         "NAME_1": "Puducherry",
                         "dummy": 96,
-                        "Num_Schools": 0
+                        "Num_Schools": 33
                     },
                     "id": "Mahe",
                     "arcs": [
@@ -9709,7 +9709,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Puducherry",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 37
                     },
                     "id": "Yanam",
                     "arcs": [
@@ -9736,7 +9736,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Punjab",
                         "dummy": 2,
-                        "Num_Schools": 0
+                        "Num_Schools": 2236
                     },
                     "id": "Amritsar",
                     "arcs": [
@@ -9756,7 +9756,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Punjab",
                         "dummy": 33,
-                        "Num_Schools": 0
+                        "Num_Schools": 1067
                     },
                     "id": "Bathinda",
                     "arcs": [
@@ -9778,7 +9778,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Punjab",
                         "dummy": 49,
-                        "Num_Schools": 0
+                        "Num_Schools": 557
                     },
                     "id": "Faridkot",
                     "arcs": [
@@ -9798,7 +9798,7 @@
                         "FemaleLiteracy": 76,
                         "NAME_1": "Punjab",
                         "dummy": 82,
-                        "Num_Schools": 0
+                        "Num_Schools": 824
                     },
                     "id": "Fatehgarh Sahib",
                     "arcs": [
@@ -9818,7 +9818,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Punjab",
                         "dummy": 94,
-                        "Num_Schools": 0
+                        "Num_Schools": 1100
                     },
                     "id": "Firozpur",
                     "arcs": [
@@ -9843,7 +9843,7 @@
                         "FemaleLiteracy": 76,
                         "NAME_1": "Punjab",
                         "dummy": 79,
-                        "Num_Schools": 0
+                        "Num_Schools": 2154
                     },
                     "id": "Gurdaspur",
                     "arcs": [
@@ -9866,7 +9866,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Punjab",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 2274
                     },
                     "id": "Hoshiarpur",
                     "arcs": [
@@ -9890,7 +9890,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Punjab",
                         "dummy": 23,
-                        "Num_Schools": 0
+                        "Num_Schools": 2237
                     },
                     "id": "Jalandhar",
                     "arcs": [
@@ -9913,7 +9913,7 @@
                         "FemaleLiteracy": 75,
                         "NAME_1": "Punjab",
                         "dummy": 31,
-                        "Num_Schools": 0
+                        "Num_Schools": 1063
                     },
                     "id": "Kapurthala",
                     "arcs": [
@@ -9943,7 +9943,7 @@
                         "FemaleLiteracy": 78,
                         "NAME_1": "Punjab",
                         "dummy": 9,
-                        "Num_Schools": 0
+                        "Num_Schools": 2998
                     },
                     "id": "Ludhiana",
                     "arcs": [
@@ -9965,7 +9965,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Punjab",
                         "dummy": 66,
-                        "Num_Schools": 0
+                        "Num_Schools": 689
                     },
                     "id": "Mansa",
                     "arcs": [
@@ -9985,7 +9985,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Punjab",
                         "dummy": 66,
-                        "Num_Schools": 0
+                        "Num_Schools": 856
                     },
                     "id": "Moga",
                     "arcs": [
@@ -10007,7 +10007,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Punjab",
                         "dummy": 46,
-                        "Num_Schools": 0
+                        "Num_Schools": 789
                     },
                     "id": "Muktsar",
                     "arcs": [
@@ -10049,7 +10049,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Punjab",
                         "dummy": 49,
-                        "Num_Schools": 0
+                        "Num_Schools": 2000
                     },
                     "id": "Patiala",
                     "arcs": [
@@ -10074,7 +10074,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Punjab",
                         "dummy": 36,
-                        "Num_Schools": 0
+                        "Num_Schools": 1006
                     },
                     "id": "Rupnagar",
                     "arcs": [
@@ -10100,7 +10100,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Punjab",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 1563
                     },
                     "id": "Sangrur",
                     "arcs": [
@@ -10124,7 +10124,7 @@
                         "FemaleLiteracy": 56,
                         "NAME_1": "Rajasthan",
                         "dummy": 6,
-                        "Num_Schools": 0
+                        "Num_Schools": 3337
                     },
                     "id": "Ajmer",
                     "arcs": [
@@ -10154,7 +10154,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Rajasthan",
                         "dummy": 54,
-                        "Num_Schools": 0
+                        "Num_Schools": 5219
                     },
                     "id": "Alwar",
                     "arcs": [
@@ -10176,7 +10176,7 @@
                         "FemaleLiteracy": 43,
                         "NAME_1": "Rajasthan",
                         "dummy": 21,
-                        "Num_Schools": 0
+                        "Num_Schools": 3820
                     },
                     "id": "Banswara",
                     "arcs": [
@@ -10198,7 +10198,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Rajasthan",
                         "dummy": 15,
-                        "Num_Schools": 0
+                        "Num_Schools": 2202
                     },
                     "id": "Baran",
                     "arcs": [
@@ -10219,7 +10219,7 @@
                         "FemaleLiteracy": 41,
                         "NAME_1": "Rajasthan",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 5662
                     },
                     "id": "Barmer",
                     "arcs": [
@@ -10241,7 +10241,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Rajasthan",
                         "dummy": 9,
-                        "Num_Schools": 0
+                        "Num_Schools": 3218
                     },
                     "id": "Bharatpur",
                     "arcs": [
@@ -10264,7 +10264,7 @@
                         "FemaleLiteracy": 48,
                         "NAME_1": "Rajasthan",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 4058
                     },
                     "id": "Bhilwara",
                     "arcs": [
@@ -10287,7 +10287,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Rajasthan",
                         "dummy": 88,
-                        "Num_Schools": 0
+                        "Num_Schools": 3457
                     },
                     "id": "Bikaner",
                     "arcs": [
@@ -10310,7 +10310,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Rajasthan",
                         "dummy": 38,
-                        "Num_Schools": 0
+                        "Num_Schools": 1868
                     },
                     "id": "Bundi",
                     "arcs": [
@@ -10330,7 +10330,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Rajasthan",
                         "dummy": 27,
-                        "Num_Schools": 0
+                        "Num_Schools": 2597
                     },
                     "id": "Chittaurgarh",
                     "arcs": [
@@ -10364,7 +10364,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Rajasthan",
                         "dummy": 22,
-                        "Num_Schools": 0
+                        "Num_Schools": 2578
                     },
                     "id": "Churu",
                     "arcs": [
@@ -10386,7 +10386,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Rajasthan",
                         "dummy": 32,
-                        "Num_Schools": 0
+                        "Num_Schools": 2574
                     },
                     "id": "Dausa",
                     "arcs": [
@@ -10408,7 +10408,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Rajasthan",
                         "dummy": 71,
-                        "Num_Schools": 0
+                        "Num_Schools": 1831
                     },
                     "id": "Dhaulpur",
                     "arcs": [
@@ -10428,7 +10428,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Rajasthan",
                         "dummy": 40,
-                        "Num_Schools": 0
+                        "Num_Schools": 3122
                     },
                     "id": "Dungarpur",
                     "arcs": [
@@ -10449,7 +10449,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Rajasthan",
                         "dummy": 45,
-                        "Num_Schools": 0
+                        "Num_Schools": 3026
                     },
                     "id": "Ganganagar",
                     "arcs": [
@@ -10469,7 +10469,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Rajasthan",
                         "dummy": 48,
-                        "Num_Schools": 0
+                        "Num_Schools": 2057
                     },
                     "id": "Hanumangarh",
                     "arcs": [
@@ -10494,7 +10494,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Rajasthan",
                         "dummy": 93,
-                        "Num_Schools": 0
+                        "Num_Schools": 9112
                     },
                     "id": "Jaipur",
                     "arcs": [
@@ -10517,7 +10517,7 @@
                         "FemaleLiteracy": 40,
                         "NAME_1": "Rajasthan",
                         "dummy": 3,
-                        "Num_Schools": 0
+                        "Num_Schools": 1622
                     },
                     "id": "Jaisalmer",
                     "arcs": [
@@ -10537,7 +10537,7 @@
                         "FemaleLiteracy": 39,
                         "NAME_1": "Rajasthan",
                         "dummy": 64,
-                        "Num_Schools": 0
+                        "Num_Schools": 2732
                     },
                     "id": "Jalor",
                     "arcs": [
@@ -10558,7 +10558,7 @@
                         "FemaleLiteracy": 47,
                         "NAME_1": "Rajasthan",
                         "dummy": 50,
-                        "Num_Schools": 0
+                        "Num_Schools": 2251
                     },
                     "id": "Jhalawar",
                     "arcs": [
@@ -10601,7 +10601,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Rajasthan",
                         "dummy": 84,
-                        "Num_Schools": 0
+                        "Num_Schools": 5776
                     },
                     "id": "Jodhpur",
                     "arcs": [
@@ -10622,7 +10622,7 @@
                         "FemaleLiteracy": 46,
                         "NAME_1": "Rajasthan",
                         "dummy": 66,
-                        "Num_Schools": 0
+                        "Num_Schools": 2478
                     },
                     "id": "Tonk",
                     "arcs": [
@@ -10645,7 +10645,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Rajasthan",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 5433
                     },
                     "id": "Udaipur",
                     "arcs": [
@@ -10668,7 +10668,7 @@
                         "FemaleLiteracy": 79,
                         "NAME_1": "Sikkim",
                         "dummy": 68,
-                        "Num_Schools": 0
+                        "Num_Schools": 581
                     },
                     "id": "East",
                     "arcs": [
@@ -10688,7 +10688,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Sikkim",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 111
                     },
                     "id": "North Sikkim",
                     "arcs": [
@@ -10708,7 +10708,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Sikkim",
                         "dummy": 18,
-                        "Num_Schools": 0
+                        "Num_Schools": 370
                     },
                     "id": "South Sikkim",
                     "arcs": [
@@ -10728,7 +10728,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "Sikkim",
                         "dummy": 86,
-                        "Num_Schools": 0
+                        "Num_Schools": 351
                     },
                     "id": "West Sikkim",
                     "arcs": [
@@ -10748,7 +10748,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 46,
-                        "Num_Schools": 0
+                        "Num_Schools": 783
                     },
                     "id": "Ariyalur",
                     "arcs": [
@@ -10768,7 +10768,7 @@
                         "FemaleLiteracy": 87,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 71,
-                        "Num_Schools": 0
+                        "Num_Schools": 1466
                     },
                     "id": "Chennai",
                     "arcs": [
@@ -10787,7 +10787,7 @@
                         "FemaleLiteracy": 79,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 67,
-                        "Num_Schools": 0
+                        "Num_Schools": 2046
                     },
                     "id": "Coimbatore",
                     "arcs": [
@@ -10809,7 +10809,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 60,
-                        "Num_Schools": 0
+                        "Num_Schools": 2223
                     },
                     "id": "Cuddalore",
                     "arcs": [
@@ -10832,7 +10832,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 1625
                     },
                     "id": "Dharmapuri",
                     "arcs": [
@@ -10858,7 +10858,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 28,
-                        "Num_Schools": 0
+                        "Num_Schools": 1976
                     },
                     "id": "Dindigul",
                     "arcs": [
@@ -10881,7 +10881,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 26,
-                        "Num_Schools": 0
+                        "Num_Schools": 1763
                     },
                     "id": "Erode",
                     "arcs": [
@@ -10904,7 +10904,7 @@
                         "FemaleLiteracy": 80,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 55,
-                        "Num_Schools": 0
+                        "Num_Schools": 2610
                     },
                     "id": "Kancheepuram",
                     "arcs": [
@@ -10972,7 +10972,7 @@
                         "FemaleLiteracy": 90,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 4,
-                        "Num_Schools": 0
+                        "Num_Schools": 1229
                     },
                     "id": "Kanniyakumari",
                     "arcs": [
@@ -10993,7 +10993,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 31,
-                        "Num_Schools": 0
+                        "Num_Schools": 1060
                     },
                     "id": "Karur",
                     "arcs": [
@@ -11034,7 +11034,7 @@
                         "FemaleLiteracy": 77,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 5,
-                        "Num_Schools": 0
+                        "Num_Schools": 2062
                     },
                     "id": "Thanjavur",
                     "arcs": [
@@ -11077,7 +11077,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 91,
-                        "Num_Schools": 0
+                        "Num_Schools": 940
                     },
                     "id": "Theni",
                     "arcs": [
@@ -11231,7 +11231,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 16,
-                        "Num_Schools": 0
+                        "Num_Schools": 2536
                     },
                     "id": "Tiruvannamalai",
                     "arcs": [
@@ -11251,7 +11251,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 73,
-                        "Num_Schools": 0
+                        "Num_Schools": 3338
                     },
                     "id": "Vellore",
                     "arcs": [
@@ -11272,7 +11272,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 80,
-                        "Num_Schools": 0
+                        "Num_Schools": 2978
                     },
                     "id": "Villupuram",
                     "arcs": [
@@ -11315,7 +11315,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Tamil Nadu",
                         "dummy": 18,
-                        "Num_Schools": 0
+                        "Num_Schools": 1736
                     },
                     "id": "Virudhunagar",
                     "arcs": [
@@ -11338,7 +11338,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Tripura",
                         "dummy": 100,
-                        "Num_Schools": 0
+                        "Num_Schools": 885
                     },
                     "id": "Dhalai",
                     "arcs": [
@@ -11359,7 +11359,7 @@
                         "FemaleLiteracy": 85,
                         "NAME_1": "Tripura",
                         "dummy": 45,
-                        "Num_Schools": 0
+                        "Num_Schools": 533
                     },
                     "id": "North Tripura",
                     "arcs": [
@@ -11380,7 +11380,7 @@
                         "FemaleLiteracy": 80,
                         "NAME_1": "Tripura",
                         "dummy": 61,
-                        "Num_Schools": 0
+                        "Num_Schools": 671
                     },
                     "id": "South Tripura",
                     "arcs": [
@@ -11399,7 +11399,7 @@
                         "FemaleLiteracy": 85,
                         "NAME_1": "Tripura",
                         "dummy": 70,
-                        "Num_Schools": 0
+                        "Num_Schools": 707
                     },
                     "id": "West Tripura",
                     "arcs": [
@@ -11418,7 +11418,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 14,
-                        "Num_Schools": 0
+                        "Num_Schools": 5112
                     },
                     "id": "Agra",
                     "arcs": [
@@ -11443,7 +11443,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 67,
-                        "Num_Schools": 0
+                        "Num_Schools": 4264
                     },
                     "id": "Aligarh",
                     "arcs": [
@@ -11466,7 +11466,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 25,
-                        "Num_Schools": 0
+                        "Num_Schools": 5695
                     },
                     "id": "Allahabad",
                     "arcs": [
@@ -11489,7 +11489,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 69,
-                        "Num_Schools": 0
+                        "Num_Schools": 3859
                     },
                     "id": "Ambedkar Nagar",
                     "arcs": [
@@ -11511,7 +11511,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 18,
-                        "Num_Schools": 0
+                        "Num_Schools": 2377
                     },
                     "id": "Auraiya",
                     "arcs": [
@@ -11532,7 +11532,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 83,
-                        "Num_Schools": 0
+                        "Num_Schools": 5998
                     },
                     "id": "Azamgarh",
                     "arcs": [
@@ -11579,7 +11579,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 8,
-                        "Num_Schools": 0
+                        "Num_Schools": 1083
                     },
                     "id": "Baghpat",
                     "arcs": [
@@ -11601,7 +11601,7 @@
                         "FemaleLiteracy": 41,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 4035
                     },
                     "id": "Bahraich",
                     "arcs": [
@@ -11623,7 +11623,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 36,
-                        "Num_Schools": 0
+                        "Num_Schools": 3823
                     },
                     "id": "Ballia",
                     "arcs": [
@@ -11646,7 +11646,7 @@
                         "FemaleLiteracy": 41,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 82,
-                        "Num_Schools": 0
+                        "Num_Schools": 2885
                     },
                     "id": "Balrampur",
                     "arcs": [
@@ -11666,7 +11666,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 80,
-                        "Num_Schools": 0
+                        "Num_Schools": 2379
                     },
                     "id": "Banda",
                     "arcs": [
@@ -11712,7 +11712,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 34,
-                        "Num_Schools": 0
+                        "Num_Schools": 4779
                     },
                     "id": "Bareilly",
                     "arcs": [
@@ -11733,7 +11733,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 79,
-                        "Num_Schools": 0
+                        "Num_Schools": 3543
                     },
                     "id": "Basti",
                     "arcs": [
@@ -11754,7 +11754,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 29,
-                        "Num_Schools": 0
+                        "Num_Schools": 5071
                     },
                     "id": "Bijnor",
                     "arcs": [
@@ -11778,7 +11778,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 57,
-                        "Num_Schools": 0
+                        "Num_Schools": 3783
                     },
                     "id": "Bulandshahr",
                     "arcs": [
@@ -11799,7 +11799,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 49,
-                        "Num_Schools": 0
+                        "Num_Schools": 2086
                     },
                     "id": "Chandauli",
                     "arcs": [
@@ -11820,7 +11820,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 34,
-                        "Num_Schools": 0
+                        "Num_Schools": 1723
                     },
                     "id": "Chitrakoot",
                     "arcs": [
@@ -11842,7 +11842,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 7,
-                        "Num_Schools": 0
+                        "Num_Schools": 4108
                     },
                     "id": "Deoria",
                     "arcs": [
@@ -11864,7 +11864,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 3328
                     },
                     "id": "Etah",
                     "arcs": [
@@ -11886,7 +11886,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 3216
                     },
                     "id": "Etawah",
                     "arcs": [
@@ -11908,7 +11908,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 56,
-                        "Num_Schools": 0
+                        "Num_Schools": 3724
                     },
                     "id": "Faizabad",
                     "arcs": [
@@ -11929,7 +11929,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 14,
-                        "Num_Schools": 0
+                        "Num_Schools": 2802
                     },
                     "id": "Farrukhabad",
                     "arcs": [
@@ -11951,7 +11951,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 47,
-                        "Num_Schools": 0
+                        "Num_Schools": 3719
                     },
                     "id": "Fatehpur",
                     "arcs": [
@@ -11975,7 +11975,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 63,
-                        "Num_Schools": 0
+                        "Num_Schools": 3629
                     },
                     "id": "Firozabad",
                     "arcs": [
@@ -11997,7 +11997,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 1573
                     },
                     "id": "Gautam Buddha Nagar",
                     "arcs": [
@@ -12018,7 +12018,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 80,
-                        "Num_Schools": 0
+                        "Num_Schools": 2151
                     },
                     "id": "Ghaziabad",
                     "arcs": [
@@ -12040,7 +12040,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 70,
-                        "Num_Schools": 0
+                        "Num_Schools": 5918
                     },
                     "id": "Ghazipur",
                     "arcs": [
@@ -12064,7 +12064,7 @@
                         "FemaleLiteracy": 49,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 31,
-                        "Num_Schools": 0
+                        "Num_Schools": 4590
                     },
                     "id": "Gonda",
                     "arcs": [
@@ -12087,7 +12087,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 14,
-                        "Num_Schools": 0
+                        "Num_Schools": 4580
                     },
                     "id": "Gorakhpur",
                     "arcs": [
@@ -12132,7 +12132,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 5465
                     },
                     "id": "Hardoi",
                     "arcs": [
@@ -12156,7 +12156,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 89,
-                        "Num_Schools": 0
+                        "Num_Schools": 2297
                     },
                     "id": "Hathras",
                     "arcs": [
@@ -12178,7 +12178,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 67,
-                        "Num_Schools": 0
+                        "Num_Schools": 2625
                     },
                     "id": "Jalaun",
                     "arcs": [
@@ -12199,7 +12199,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 59,
-                        "Num_Schools": 0
+                        "Num_Schools": 6028
                     },
                     "id": "Jaunpur",
                     "arcs": [
@@ -12222,7 +12222,7 @@
                         "FemaleLiteracy": 65,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 41,
-                        "Num_Schools": 0
+                        "Num_Schools": 2667
                     },
                     "id": "Jhansi",
                     "arcs": [
@@ -12269,7 +12269,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 41,
-                        "Num_Schools": 0
+                        "Num_Schools": 2718
                     },
                     "id": "Kannauj",
                     "arcs": [
@@ -12310,7 +12310,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 85,
-                        "Num_Schools": 0
+                        "Num_Schools": 2670
                     },
                     "id": "Kanpur Dehat",
                     "arcs": [
@@ -12334,7 +12334,7 @@
                         "FemaleLiteracy": 51,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 2171
                     },
                     "id": "Kaushambi",
                     "arcs": [
@@ -12354,7 +12354,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 53,
-                        "Num_Schools": 0
+                        "Num_Schools": 4562
                     },
                     "id": "Kushinagar",
                     "arcs": [
@@ -12397,7 +12397,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 61,
-                        "Num_Schools": 0
+                        "Num_Schools": 1963
                     },
                     "id": "Lalitpur",
                     "arcs": [
@@ -12419,7 +12419,7 @@
                         "FemaleLiteracy": 74,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 56,
-                        "Num_Schools": 0
+                        "Num_Schools": 4143
                     },
                     "id": "Lucknow",
                     "arcs": [
@@ -12440,7 +12440,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 74,
-                        "Num_Schools": 0
+                        "Num_Schools": 3244
                     },
                     "id": "Maharajganj",
                     "arcs": [
@@ -12462,7 +12462,7 @@
                         "FemaleLiteracy": 55,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 22,
-                        "Num_Schools": 0
+                        "Num_Schools": 1436
                     },
                     "id": "Mahoba",
                     "arcs": [
@@ -12482,7 +12482,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 93,
-                        "Num_Schools": 0
+                        "Num_Schools": 3562
                     },
                     "id": "Mainpuri",
                     "arcs": [
@@ -12503,7 +12503,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 58,
-                        "Num_Schools": 0
+                        "Num_Schools": 3050
                     },
                     "id": "Mathura",
                     "arcs": [
@@ -12534,7 +12534,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 2840
                     },
                     "id": "Mau",
                     "arcs": [
@@ -12555,7 +12555,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 10,
-                        "Num_Schools": 0
+                        "Num_Schools": 3042
                     },
                     "id": "Meerut",
                     "arcs": [
@@ -12576,7 +12576,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 95,
-                        "Num_Schools": 0
+                        "Num_Schools": 3306
                     },
                     "id": "Mirzapur",
                     "arcs": [
@@ -12599,7 +12599,7 @@
                         "FemaleLiteracy": 50,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 4381
                     },
                     "id": "Moradabad",
                     "arcs": [
@@ -12620,7 +12620,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 54,
-                        "Num_Schools": 0
+                        "Num_Schools": 2854
                     },
                     "id": "Muzaffarnagar",
                     "arcs": [
@@ -12643,7 +12643,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 2533
                     },
                     "id": "Pilibhit",
                     "arcs": [
@@ -12664,7 +12664,7 @@
                         "FemaleLiteracy": 61,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 44,
-                        "Num_Schools": 0
+                        "Num_Schools": 4874
                     },
                     "id": "Pratapgarh",
                     "arcs": [
@@ -12685,7 +12685,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 98,
-                        "Num_Schools": 0
+                        "Num_Schools": 3452
                     },
                     "id": "Rae Bareli",
                     "arcs": [
@@ -12707,7 +12707,7 @@
                         "FemaleLiteracy": 46,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 43,
-                        "Num_Schools": 0
+                        "Num_Schools": 3150
                     },
                     "id": "Rampur",
                     "arcs": [
@@ -12727,7 +12727,7 @@
                         "FemaleLiteracy": 63,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 22,
-                        "Num_Schools": 0
+                        "Num_Schools": 4362
                     },
                     "id": "Saharanpur",
                     "arcs": [
@@ -12750,7 +12750,7 @@
                         "FemaleLiteracy": 57,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 12,
-                        "Num_Schools": 0
+                        "Num_Schools": 2281
                     },
                     "id": "Sant Kabir Nagar",
                     "arcs": [
@@ -12791,7 +12791,7 @@
                         "FemaleLiteracy": 52,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 99,
-                        "Num_Schools": 0
+                        "Num_Schools": 4324
                     },
                     "id": "Shahjahanpur",
                     "arcs": [
@@ -12855,7 +12855,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 40,
-                        "Num_Schools": 0
+                        "Num_Schools": 5850
                     },
                     "id": "Sitapur",
                     "arcs": [
@@ -12876,7 +12876,7 @@
                         "FemaleLiteracy": 54,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 21,
-                        "Num_Schools": 0
+                        "Num_Schools": 2788
                     },
                     "id": "Sonbhadra",
                     "arcs": [
@@ -12899,7 +12899,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 5,
-                        "Num_Schools": 0
+                        "Num_Schools": 3556
                     },
                     "id": "Sultanpur",
                     "arcs": [
@@ -12922,7 +12922,7 @@
                         "FemaleLiteracy": 59,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 4438
                     },
                     "id": "Unnao",
                     "arcs": [
@@ -12944,7 +12944,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "Uttar Pradesh",
                         "dummy": 51,
-                        "Num_Schools": 0
+                        "Num_Schools": 3364
                     },
                     "id": "Varanasi",
                     "arcs": [
@@ -12965,7 +12965,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Uttaranchal",
                         "dummy": 81,
-                        "Num_Schools": 0
+                        "Num_Schools": 2058
                     },
                     "id": "Almora",
                     "arcs": [
@@ -12987,7 +12987,7 @@
                         "FemaleLiteracy": 70,
                         "NAME_1": "Uttaranchal",
                         "dummy": 91,
-                        "Num_Schools": 0
+                        "Num_Schools": 909
                     },
                     "id": "Bageshwar",
                     "arcs": [
@@ -13006,7 +13006,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Uttaranchal",
                         "dummy": 94,
-                        "Num_Schools": 0
+                        "Num_Schools": 1581
                     },
                     "id": "Chamoli",
                     "arcs": [
@@ -13029,7 +13029,7 @@
                         "FemaleLiteracy": 69,
                         "NAME_1": "Uttaranchal",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 815
                     },
                     "id": "Champawat",
                     "arcs": [
@@ -13139,7 +13139,7 @@
                         "FemaleLiteracy": 73,
                         "NAME_1": "Uttaranchal",
                         "dummy": 46,
-                        "Num_Schools": 0
+                        "Num_Schools": 1785
                     },
                     "id": "Pithoragarh",
                     "arcs": [
@@ -13180,7 +13180,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Uttaranchal",
                         "dummy": 40,
-                        "Num_Schools": 0
+                        "Num_Schools": 2290
                     },
                     "id": "Tehri Garhwal",
                     "arcs": [
@@ -13200,7 +13200,7 @@
                         "FemaleLiteracy": 66,
                         "NAME_1": "Uttaranchal",
                         "dummy": 79,
-                        "Num_Schools": 0
+                        "Num_Schools": 2299
                     },
                     "id": "Udham Singh Nagar",
                     "arcs": [
@@ -13224,7 +13224,7 @@
                         "FemaleLiteracy": 62,
                         "NAME_1": "Uttaranchal",
                         "dummy": 11,
-                        "Num_Schools": 0
+                        "Num_Schools": 1381
                     },
                     "id": "Uttarkashi",
                     "arcs": [
@@ -13247,7 +13247,7 @@
                         "FemaleLiteracy": 60,
                         "NAME_1": "West Bengal",
                         "dummy": 30,
-                        "Num_Schools": 0
+                        "Num_Schools": 5251
                     },
                     "id": "Bankura",
                     "arcs": [
@@ -13291,7 +13291,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "West Bengal",
                         "dummy": 59,
-                        "Num_Schools": 0
+                        "Num_Schools": 4235
                     },
                     "id": "Birbhum",
                     "arcs": [
@@ -13312,7 +13312,7 @@
                         "FemaleLiteracy": 68,
                         "NAME_1": "West Bengal",
                         "dummy": 10,
-                        "Num_Schools": 0
+                        "Num_Schools": 2333
                     },
                     "id": "Dakshin Dinajpur",
                     "arcs": [
@@ -13432,7 +13432,7 @@
                         "FemaleLiteracy": 67,
                         "NAME_1": "West Bengal",
                         "dummy": 15,
-                        "Num_Schools": 0
+                        "Num_Schools": 2748
                     },
                     "id": "Jalpaiguri",
                     "arcs": [
@@ -13473,7 +13473,7 @@
                         "FemaleLiteracy": 85,
                         "NAME_1": "West Bengal",
                         "dummy": 70,
-                        "Num_Schools": 0
+                        "Num_Schools": 2421
                     },
                     "id": "Kolkata",
                     "arcs": [
@@ -13492,7 +13492,7 @@
                         "FemaleLiteracy": 58,
                         "NAME_1": "West Bengal",
                         "dummy": 95,
-                        "Num_Schools": 0
+                        "Num_Schools": 4596
                     },
                     "id": "Maldah",
                     "arcs": [
@@ -13514,7 +13514,7 @@
                         "FemaleLiteracy": 64,
                         "NAME_1": "West Bengal",
                         "dummy": 42,
-                        "Num_Schools": 0
+                        "Num_Schools": 7160
                     },
                     "id": "Murshidabad",
                     "arcs": [
@@ -13539,7 +13539,7 @@
                         "FemaleLiteracy": 71,
                         "NAME_1": "West Bengal",
                         "dummy": 82,
-                        "Num_Schools": 0
+                        "Num_Schools": 4563
                     },
                     "id": "Nadia",
                     "arcs": [
@@ -13560,7 +13560,7 @@
                         "FemaleLiteracy": 81,
                         "NAME_1": "West Bengal",
                         "dummy": 89,
-                        "Num_Schools": 0
+                        "Num_Schools": 6563
                     },
                     "id": "North 24 Parganas",
                     "arcs": [
@@ -13879,7 +13879,7 @@
                         "FemaleLiteracy": 72,
                         "NAME_1": "West Bengal",
                         "dummy": 77,
-                        "Num_Schools": 0
+                        "Num_Schools": 7397
                     },
                     "id": "South 24 Parganas",
                     "arcs": [
@@ -14040,7 +14040,7 @@
                         "FemaleLiteracy": 53,
                         "NAME_1": "West Bengal",
                         "dummy": 62,
-                        "Num_Schools": 0
+                        "Num_Schools": 3286
                     },
                     "id": "Uttar Dinajpur",
                     "arcs": [

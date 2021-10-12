@@ -53,9 +53,13 @@ function selectFilter() {
 } // selectFilter
 
 function colorCode(data, filter) {
-    var color = d3.scale.threshold()
+    var color = d3.scaleLinear()
+        .domain([0, d3.max(data)])
+        .range(["white", "red"]);
+
+    /*var color = d3.scale.threshold()
         .domain([65, 72, 78, 85])
-        .range(["#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3"]);
+        .range(["#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3"]);*/
     data.forEach(function (d) {
         if (isNaN(d.properties[filter])) { d.properties[filter] = 77; }
         d.color = color(d.properties[filter]);

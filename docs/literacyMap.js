@@ -53,13 +53,25 @@ function selectFilter() {
 } // selectFilter
 
 function colorCode(data, filter) {
+    /*
     var color = d3.scale.quantize()
         .domain(d3.extent(data))
-        .range(["#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3"]);
-
-    /*var color = d3.scale.threshold()
-        .domain([65, 72, 78, 85])
         .range(["#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3"]);*/
+    var keyArray = data.map(function (item) { return item["properties"][filter]; });
+    console.log(keyArray)
+    var sorted_data = keyArray.sort(d3.ascending);
+    var quantile_025 = d3.quantile(sorted_data, 0.25)
+    console.log(quantile_025)
+    var quantile_050 = d3.quantile(sorted_data, 0.50)
+    console.log(quantile_050)
+    var quantile_075 = d3.quantile(sorted_data, 0.75)
+    console.log(quantile_075)
+
+    var color = d3.scale.threshold()
+        // .domain([65, 72, 78, 85])
+        .domain([quantile_025, quantile_050, quantile_075])
+        //.range(["#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3"]);
+        .range(["#dadaeb", "#9e9ac8", "#807dba", "#6a51a3"]);
     data.forEach(function (d) {
         if (isNaN(d.properties[filter])) { d.properties[filter] = 77; }
         d.color = color(d.properties[filter]);

@@ -53,9 +53,9 @@ function selectFilter() {
 } // selectFilter
 
 function colorCode(data, filter) {
-    var color = d3.scaleLinear()
+    var color = d3.scale.linear()
         .domain([0, 100])
-        .range(["white", "red"]);
+        .range(["#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3"]);
 
     /*var color = d3.scale.threshold()
         .domain([65, 72, 78, 85])

@@ -17,9 +17,16 @@
         border-radius: 8px;
 }
 
+#categoryList {
+        position: absolute;
+        right: 200px;
+        padding: 15px 15px;
+        border-radius: 8px;
+}
+
 #select {
 	position:absolute;
-	left: 500px;
+	left: 580px;
 	top: 100px;
         font: 12px sans-serif;
         color: #333;

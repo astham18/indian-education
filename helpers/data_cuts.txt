@@ -1,0 +1,51 @@
+https://udiseplus.gov.in/assets/img/dcf2021/DCF6-8.pdf
+
+School Profile 1
+
+- Num schools per district (need to normalize)
+- Are most schools in rural areas?
+- Which assembly constituency does each district fall Under
+- What school category do most schools in this district belong to?
+- What school types do most of schools in this district belong to?
+- What class do most of the schools have instruction till in this district?
+- Who manages most of the schools in this district?
+- What is the top medium of instruction in schools in this district?
+
+    Accessibility 
+    - Are most schools in the district approachable by all-weather roads ?
+    
+School Profile 2 
+- How many girls and boys are enrolled under RTE Act?
+
+    
+    - How many textbooks and materials were received by the schools in this area? 
+    - Uniforms provided?
+    - 
+
+Facilities
+School Infrastructure
+    - How are most school buildings in this district?
+    - % of building blocks that are permanent structures?
+    - % of classrooms that need major repair
+    - % of schools with functional drinking water available
+    - % of schools with functional toilets available
+    - % of schools with solar panels
+    - % of schools of electricity available
+    - % of schools with playgrounds available
+    - % of schools with handwashing stations
+    - % of schools that had medical checkups in the last year
+    - % of students for whom furniture available is available
+    - % of schools with internet
+    - % of schools with laptops, printer, desktop, digiboard, tablet
+
+
+Teachers
+- Total Teachers per district
+- % of Female Teachers
+- % of Male Teachers
+- Average Teacher to student ratio
+
+Education
+- % Enrolled: Total Enrollment for district / Total Enrollment for state
+- % Girls Enrolled
+- % Boys Enrolled

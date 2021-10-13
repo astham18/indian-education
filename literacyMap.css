@@ -1,4 +1,8 @@
-#map    { position: relative; min-height: 500px; }
+#info {position: absolute;
+       right: 200px; 
+       top: 100px;}
+
+#map    {position: relative; min-height: 500px; }
 
 .district, .disputed, .state rect, .state path { stroke: #a9a9a9; stroke-width: 1px; }
 

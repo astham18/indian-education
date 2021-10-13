@@ -75,7 +75,7 @@
                         "dummy": 6,
                         "Num_Schools": 0
                     },
-                    "id": "Upper Dibang Valley",
+                    "id": "Dibang Valley",
                     "arcs": [
                         [
                             13,
@@ -292,7 +292,7 @@
                         "dummy": 84,
                         "Num_Schools": 0
                     },
-                    "id": "Dhuburi",
+                    "id": "Dhubri",
                     "arcs": [
                         [
                             [
@@ -559,7 +559,7 @@
                         "dummy": 56,
                         "Num_Schools": 0
                     },
-                    "id": "Marigaon",
+                    "id": "Morigaon",
                     "arcs": [
                         [
                             116,
@@ -623,7 +623,7 @@
                         "dummy": 79,
                         "Num_Schools": 0
                     },
-                    "id": "North Cachar Hills",
+                    "id": "Dima Hasao",
                     "arcs": [
                         [
                             -120,
@@ -735,7 +735,7 @@
                         "dummy": 65,
                         "Num_Schools": 0
                     },
-                    "id": "Aurangabad",
+                    "id": "Aurangabad (Bihar)",
                     "arcs": [
                         [
                             137,
@@ -798,7 +798,7 @@
                         "dummy": 86,
                         "Num_Schools": 0
                     },
-                    "id": "Bhabua",
+                    "id": "Kaimur (Bhabua)",
                     "arcs": [
                         [
                             152,
@@ -1520,7 +1520,7 @@
                         "dummy": 95,
                         "Num_Schools": 0
                     },
-                    "id": "West Nimar",
+                    "id": "Khargone",
                     "arcs": [
                         [
                             275,
@@ -1543,7 +1543,7 @@
                         "dummy": 66,
                         "Num_Schools": 0
                     },
-                    "id": "Ahmednagar",
+                    "id": "Ahmadnagar",
                     "arcs": [
                         [
                             282,
@@ -1610,7 +1610,7 @@
                         "dummy": 86,
                         "Num_Schools": 0
                     },
-                    "id": "Aurangabad",
+                    "id": "Aurangabad (Maharashtra)",
                     "arcs": [
                         [
                             300,
@@ -1751,7 +1751,7 @@
                         "dummy": 79,
                         "Num_Schools": 0
                     },
-                    "id": "Garhchiroli",
+                    "id": "Gadchiroli",
                     "arcs": [
                         [
                             333,
@@ -2516,7 +2516,7 @@
                         "dummy": 15,
                         "Num_Schools": 0
                     },
-                    "id": "Nilgiris",
+                    "id": "The Nilgiris",
                     "arcs": [
                         [
                             488,
@@ -2775,7 +2775,7 @@
                         "dummy": 33,
                         "Num_Schools": 0
                     },
-                    "id": "Nicobar Islands",
+                    "id": "Nicobars",
                     "arcs": [
                         [
                             [
@@ -2909,7 +2909,7 @@
                         "dummy": 47,
                         "Num_Schools": 0
                     },
-                    "id": "Cuddapah",
+                    "id": "Kadapa",
                     "arcs": [
                         [
                             568,
@@ -3098,7 +3098,7 @@
                         "dummy": 18,
                         "Num_Schools": 0
                     },
-                    "id": "Mahbubnagar",
+                    "id": "Mahabubnagar",
                     "arcs": [
                         [
                             606,
@@ -3240,7 +3240,7 @@
                         "dummy": 75,
                         "Num_Schools": 0
                     },
-                    "id": "Rangareddi",
+                    "id": "Rangareddy",
                     "arcs": [
                         [
                             -618,
@@ -3286,7 +3286,7 @@
                         "dummy": 25,
                         "Num_Schools": 0
                     },
-                    "id": "Vishakhapatnam",
+                    "id": "Visakhapatnam",
                     "arcs": [
                         [
                             [
@@ -3619,7 +3619,7 @@
                         "dummy": 22,
                         "Num_Schools": 0
                     },
-                    "id": "Bastar",
+                    "id": "Baster",
                     "arcs": [
                         [
                             658,
@@ -3739,7 +3739,7 @@
                         "dummy": 30,
                         "Num_Schools": 0
                     },
-                    "id": "Janjgir-Champa",
+                    "id": "Janjgir - Champa",
                     "arcs": [
                         [
                             683,
@@ -3986,7 +3986,7 @@
                         "dummy": 100,
                         "Num_Schools": 0
                     },
-                    "id": "Dadra and Nagar Haveli",
+                    "id": "Dadra and Nagar Haveli(UT)",
                     "arcs": [
                         [
                             718,
@@ -4056,7 +4056,7 @@
                         "dummy": 14,
                         "Num_Schools": 0
                     },
-                    "id": "Delhi",
+                    "id": "New Delhi",
                     "arcs": [
                         [
                             730,
@@ -4128,7 +4128,7 @@
                         "dummy": 69,
                         "Num_Schools": 0
                     },
-                    "id": "Ahmadabad",
+                    "id": "Ahmedabad",
                     "arcs": [
                         [
                             746,
@@ -4284,7 +4284,7 @@
                         "dummy": 73,
                         "Num_Schools": 0
                     },
-                    "id": "Dahod",
+                    "id": "Dohad",
                     "arcs": [
                         [
                             780,
@@ -4899,7 +4899,7 @@
                         "dummy": 45,
                         "Num_Schools": 0
                     },
-                    "id": "Gurgaon",
+                    "id": "Gurugram",
                     "arcs": [
                         [
                             -868,
@@ -5183,7 +5183,7 @@
                         "dummy": 59,
                         "Num_Schools": 0
                     },
-                    "id": "Sonepat",
+                    "id": "Sonipat",
                     "arcs": [
                         [
                             -915,
@@ -5205,7 +5205,7 @@
                         "dummy": 55,
                         "Num_Schools": 0
                     },
-                    "id": "Yamuna Nagar",
+                    "id": "Yamunanagar",
                     "arcs": [
                         [
                             922,
@@ -5268,7 +5268,7 @@
                         "dummy": 16,
                         "Num_Schools": 0
                     },
-                    "id": "Hamirpur",
+                    "id": "Hamirpur (H.P.)",
                     "arcs": [
                         [
                             -929,
@@ -5354,7 +5354,7 @@
                         "dummy": 91,
                         "Num_Schools": 0
                     },
-                    "id": "Lahul and Spiti",
+                    "id": "Lahul & Spiti",
                     "arcs": [
                         [
                             952,
@@ -5489,7 +5489,7 @@
                         "dummy": 55,
                         "Num_Schools": 0
                     },
-                    "id": "Anantnag (Kashmir South)",
+                    "id": "Anantnag",
                     "arcs": [
                         [
                             968,
@@ -5532,7 +5532,7 @@
                         "dummy": 46,
                         "Num_Schools": 0
                     },
-                    "id": "Baramula (Kashmir North)",
+                    "id": "Baramula",
                     "arcs": [
                         [
                             979,
@@ -5657,7 +5657,7 @@
                         "dummy": 70,
                         "Num_Schools": 0
                     },
-                    "id": "Ladakh (Leh)",
+                    "id": "Leh (Ladakh)",
                     "arcs": [
                         [
                             -954,
@@ -6018,7 +6018,7 @@
                         "dummy": 15,
                         "Num_Schools": 0
                     },
-                    "id": "Koderma",
+                    "id": "Kodarma",
                     "arcs": [
                         [
                             -1028,
@@ -6122,7 +6122,7 @@
                         "dummy": 14,
                         "Num_Schools": 0
                     },
-                    "id": "Pashchim Singhbhum",
+                    "id": "Pashchimi Singhbhum",
                     "arcs": [
                         [
                             1046,
@@ -6141,7 +6141,7 @@
                         "dummy": 93,
                         "Num_Schools": 0
                     },
-                    "id": "Purba Singhbhum",
+                    "id": "Purbi Singhbhum",
                     "arcs": [
                         [
                             1052,
@@ -6208,7 +6208,7 @@
                         "dummy": 74,
                         "Num_Schools": 0
                     },
-                    "id": "Saraikela Kharsawan",
+                    "id": "Saraikela-Kharsawan",
                     "arcs": [
                         [
                             -1055,
@@ -6312,7 +6312,7 @@
                         "dummy": 84,
                         "Num_Schools": 0
                     },
-                    "id": "Belgaum",
+                    "id": "Belagavi",
                     "arcs": [
                         [
                             1077,
@@ -6337,7 +6337,7 @@
                         "dummy": 19,
                         "Num_Schools": 0
                     },
-                    "id": "Bellary",
+                    "id": "Ballari",
                     "arcs": [
                         [
                             -561,
@@ -6405,7 +6405,7 @@
                         "dummy": 24,
                         "Num_Schools": 0
                     },
-                    "id": "Chamrajnagar",
+                    "id": "Chamarajanagara",
                     "arcs": [
                         [
                             -1074,
@@ -6428,7 +6428,7 @@
                         "dummy": 44,
                         "Num_Schools": 0
                     },
-                    "id": "Chikmagalur",
+                    "id": "Chikkamangaluru",
                     "arcs": [
                         [
                             1099,
@@ -6474,7 +6474,7 @@
                         "dummy": 48,
                         "Num_Schools": 0
                     },
-                    "id": "Dakshin Kannad",
+                    "id": "Dakshina Kannanda",
                     "arcs": [
                         [
                             1109,
@@ -6562,7 +6562,7 @@
                         "dummy": 85,
                         "Num_Schools": 0
                     },
-                    "id": "Gulbarga",
+                    "id": "Kalburgi",
                     "arcs": [
                         [
                             -1090,
@@ -6758,7 +6758,7 @@
                         "dummy": 58,
                         "Num_Schools": 0
                     },
-                    "id": "Shimoga",
+                    "id": "Shivamogga",
                     "arcs": [
                         [
                             -1118,
@@ -6779,7 +6779,7 @@
                         "dummy": 59,
                         "Num_Schools": 0
                     },
-                    "id": "Tumkur",
+                    "id": "Tumakuru",
                     "arcs": [
                         [
                             [
@@ -7138,7 +7138,7 @@
                         "dummy": 89,
                         "Num_Schools": 0
                     },
-                    "id": "Pattanamtitta",
+                    "id": "Pathanamthitta",
                     "arcs": [
                         [
                             1199,
@@ -7356,7 +7356,7 @@
                         "dummy": 53,
                         "Num_Schools": 0
                     },
-                    "id": "East Nimar",
+                    "id": "Khandwa",
                     "arcs": [
                         [
                             1225,
@@ -7624,7 +7624,7 @@
                         "dummy": 11,
                         "Num_Schools": 0
                     },
-                    "id": "Narsinghpur",
+                    "id": "Narsimhapur",
                     "arcs": [
                         [
                             -424,
@@ -8300,7 +8300,7 @@
                         "dummy": 87,
                         "Num_Schools": 0
                     },
-                    "id": "East Imphal",
+                    "id": "Imphal East",
                     "arcs": [
                         [
                             [
@@ -8417,7 +8417,7 @@
                         "dummy": 4,
                         "Num_Schools": 0
                     },
-                    "id": "West Imphal",
+                    "id": "Imphal West",
                     "arcs": [
                         [
                             -1329,
@@ -8942,7 +8942,7 @@
                         "Literacy": 79,
                         "MaleLiteracy": 87,
                         "FemaleLiteracy": 70,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 62,
                         "Num_Schools": 1943
                     },
@@ -8967,11 +8967,11 @@
                         "Literacy": 81,
                         "MaleLiteracy": 88,
                         "FemaleLiteracy": 73,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 97,
                         "Num_Schools": 0
                     },
-                    "id": "Baleshwar",
+                    "id": "Balasore",
                     "arcs": [
                         [
                             [
@@ -8991,7 +8991,7 @@
                         "Literacy": 75,
                         "MaleLiteracy": 84,
                         "FemaleLiteracy": 66,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 47,
                         "Num_Schools": 2095
                     },
@@ -9014,7 +9014,7 @@
                         "Literacy": 83,
                         "MaleLiteracy": 90,
                         "FemaleLiteracy": 76,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 44,
                         "Num_Schools": 2262
                     },
@@ -9037,7 +9037,7 @@
                         "Literacy": 66,
                         "MaleLiteracy": 77,
                         "FemaleLiteracy": 54,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 52,
                         "Num_Schools": 2668
                     },
@@ -9059,7 +9059,7 @@
                         "Literacy": 73,
                         "MaleLiteracy": 84,
                         "FemaleLiteracy": 60,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 21,
                         "Num_Schools": 913
                     },
@@ -9080,7 +9080,7 @@
                         "Literacy": 84,
                         "MaleLiteracy": 91,
                         "FemaleLiteracy": 78,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 43,
                         "Num_Schools": 3064
                     },
@@ -9104,7 +9104,7 @@
                         "Literacy": 73,
                         "MaleLiteracy": 83,
                         "FemaleLiteracy": 63,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 12,
                         "Num_Schools": 672
                     },
@@ -9123,7 +9123,7 @@
                         "Literacy": 79,
                         "MaleLiteracy": 87,
                         "FemaleLiteracy": 71,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 44,
                         "Num_Schools": 1839
                     },
@@ -9143,7 +9143,7 @@
                         "Literacy": 54,
                         "MaleLiteracy": 66,
                         "FemaleLiteracy": 44,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 40,
                         "Num_Schools": 1257
                     },
@@ -9163,7 +9163,7 @@
                         "Literacy": 72,
                         "MaleLiteracy": 82,
                         "FemaleLiteracy": 62,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 42,
                         "Num_Schools": 4344
                     },
@@ -9194,7 +9194,7 @@
                         "Literacy": 87,
                         "MaleLiteracy": 93,
                         "FemaleLiteracy": 81,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 32,
                         "Num_Schools": 1755
                     },
@@ -9228,7 +9228,7 @@
                         "Literacy": 80,
                         "MaleLiteracy": 87,
                         "FemaleLiteracy": 73,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 64,
                         "Num_Schools": 2899
                     },
@@ -9249,7 +9249,7 @@
                         "Literacy": 78,
                         "MaleLiteracy": 86,
                         "FemaleLiteracy": 70,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 47,
                         "Num_Schools": 828
                     },
@@ -9269,7 +9269,7 @@
                         "Literacy": 60,
                         "MaleLiteracy": 73,
                         "FemaleLiteracy": 47,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 66,
                         "Num_Schools": 2742
                     },
@@ -9292,7 +9292,7 @@
                         "Literacy": 65,
                         "MaleLiteracy": 78,
                         "FemaleLiteracy": 52,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 10,
                         "Num_Schools": 2013
                     },
@@ -9315,7 +9315,7 @@
                         "Literacy": 86,
                         "MaleLiteracy": 92,
                         "FemaleLiteracy": 80,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 85,
                         "Num_Schools": 2341
                     },
@@ -9348,7 +9348,7 @@
                         "Literacy": 69,
                         "MaleLiteracy": 79,
                         "FemaleLiteracy": 59,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 44,
                         "Num_Schools": 3287
                     },
@@ -9372,11 +9372,11 @@
                         "Literacy": 88,
                         "MaleLiteracy": 93,
                         "FemaleLiteracy": 82,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 36,
                         "Num_Schools": 0
                     },
-                    "id": "Khordha",
+                    "id": "Khurdha",
                     "arcs": [
                         [
                             1472,
@@ -9392,7 +9392,7 @@
                         "Literacy": 50,
                         "MaleLiteracy": 61,
                         "FemaleLiteracy": 39,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 97,
                         "Num_Schools": 2725
                     },
@@ -9415,7 +9415,7 @@
                         "Literacy": 49,
                         "MaleLiteracy": 60,
                         "FemaleLiteracy": 39,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 66,
                         "Num_Schools": 1413
                     },
@@ -9437,7 +9437,7 @@
                         "Literacy": 64,
                         "MaleLiteracy": 75,
                         "FemaleLiteracy": 53,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 95,
                         "Num_Schools": 4937
                     },
@@ -9459,7 +9459,7 @@
                         "Literacy": 48,
                         "MaleLiteracy": 59,
                         "FemaleLiteracy": 37,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 64,
                         "Num_Schools": 2082
                     },
@@ -9480,7 +9480,7 @@
                         "Literacy": 79,
                         "MaleLiteracy": 87,
                         "FemaleLiteracy": 71,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 68,
                         "Num_Schools": 1449
                     },
@@ -9502,7 +9502,7 @@
                         "Literacy": 58,
                         "MaleLiteracy": 72,
                         "FemaleLiteracy": 45,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 52,
                         "Num_Schools": 1198
                     },
@@ -9523,7 +9523,7 @@
                         "Literacy": 85,
                         "MaleLiteracy": 92,
                         "FemaleLiteracy": 79,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 57,
                         "Num_Schools": 2557
                     },
@@ -9558,7 +9558,7 @@
                         "Literacy": 51,
                         "MaleLiteracy": 63,
                         "FemaleLiteracy": 40,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 79,
                         "Num_Schools": 2076
                     },
@@ -9580,7 +9580,7 @@
                         "Literacy": 77,
                         "MaleLiteracy": 85,
                         "FemaleLiteracy": 68,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 5,
                         "Num_Schools": 1690
                     },
@@ -9602,7 +9602,7 @@
                         "Literacy": 74,
                         "MaleLiteracy": 85,
                         "FemaleLiteracy": 64,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 43,
                         "Num_Schools": 1101
                     },
@@ -9623,11 +9623,11 @@
                         "Literacy": 74,
                         "MaleLiteracy": 82,
                         "FemaleLiteracy": 66,
-                        "NAME_1": "Orissa",
+                        "NAME_1": "Odisha",
                         "dummy": 63,
                         "Num_Schools": 0
                     },
-                    "id": "Sundargarh",
+                    "id": "Sundergarh",
                     "arcs": [
                         [
                             -1064,
@@ -9692,7 +9692,7 @@
                         "dummy": 70,
                         "Num_Schools": 0
                     },
-                    "id": "Puducherry",
+                    "id": "Pondicherry",
                     "arcs": [
                         [
                             1486,
@@ -10030,7 +10030,7 @@
                         "dummy": 79,
                         "Num_Schools": 0
                     },
-                    "id": "Nawan Shehar",
+                    "id": "Nawanshahr",
                     "arcs": [
                         [
                             -1519,
@@ -10583,7 +10583,7 @@
                         "dummy": 94,
                         "Num_Schools": 0
                     },
-                    "id": "Jhunjhunun",
+                    "id": "Jhunjhunu",
                     "arcs": [
                         [
                             -908,
@@ -11015,7 +11015,7 @@
                         "dummy": 7,
                         "Num_Schools": 0
                     },
-                    "id": "Sivaganga",
+                    "id": "Sivagangai",
                     "arcs": [
                         [
                             -503,
@@ -11099,7 +11099,7 @@
                         "dummy": 5,
                         "Num_Schools": 0
                     },
-                    "id": "Thiruvallur",
+                    "id": "Tiruvallur",
                     "arcs": [
                         [
                             [
@@ -11123,7 +11123,7 @@
                         "dummy": 45,
                         "Num_Schools": 0
                     },
-                    "id": "Thiruvarur",
+                    "id": "Tiruvarur",
                     "arcs": [
                         [
                             [
@@ -11175,7 +11175,7 @@
                         "dummy": 18,
                         "Num_Schools": 0
                     },
-                    "id": "Tiruchchirappalli",
+                    "id": "Tiruchirappalli",
                     "arcs": [
                         [
                             -498,
@@ -11201,7 +11201,7 @@
                         "dummy": 92,
                         "Num_Schools": 0
                     },
-                    "id": "Tirunelveli Kattabo",
+                    "id": "Tirunelveli",
                     "arcs": [
                         [
                             [
@@ -11556,7 +11556,7 @@
                         "dummy": 9,
                         "Num_Schools": 0
                     },
-                    "id": "Badaun",
+                    "id": "Budaun",
                     "arcs": [
                         [
                             1708,
@@ -11691,7 +11691,7 @@
                         "dummy": 98,
                         "Num_Schools": 0
                     },
-                    "id": "Bara Banki",
+                    "id": "Barabanki",
                     "arcs": [
                         [
                             -1722,
@@ -12112,7 +12112,7 @@
                         "dummy": 75,
                         "Num_Schools": 0
                     },
-                    "id": "Hamirpur",
+                    "id": "Hamirpur (U.P.)",
                     "arcs": [
                         [
                             -1786,
@@ -12249,7 +12249,7 @@
                         "dummy": 14,
                         "Num_Schools": 0
                     },
-                    "id": "Jyotiba Phule Nagar",
+                    "id": "Jyotiba Phule Nagar (Amroha)",
                     "arcs": [
                         [
                             1825,
@@ -12773,7 +12773,7 @@
                         "dummy": 87,
                         "Num_Schools": 0
                     },
-                    "id": "Sant Ravi Das Nagar",
+                    "id": "Bhadoi",
                     "arcs": [
                         [
                             1863,
@@ -12815,7 +12815,7 @@
                         "dummy": 38,
                         "Num_Schools": 0
                     },
-                    "id": "Shravasti",
+                    "id": "Shrawasti",
                     "arcs": [
                         [
                             -1731,
@@ -12835,7 +12835,7 @@
                         "dummy": 29,
                         "Num_Schools": 0
                     },
-                    "id": "Siddharth Nagar",
+                    "id": "Siddharthnagar",
                     "arcs": [
                         [
                             -1843,
@@ -12963,7 +12963,7 @@
                         "Literacy": 81,
                         "MaleLiteracy": 94,
                         "FemaleLiteracy": 70,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 81,
                         "Num_Schools": 2058
                     },
@@ -12985,7 +12985,7 @@
                         "Literacy": 81,
                         "MaleLiteracy": 93,
                         "FemaleLiteracy": 70,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 91,
                         "Num_Schools": 909
                     },
@@ -13004,7 +13004,7 @@
                         "Literacy": 83,
                         "MaleLiteracy": 94,
                         "FemaleLiteracy": 73,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 94,
                         "Num_Schools": 1581
                     },
@@ -13027,7 +13027,7 @@
                         "Literacy": 81,
                         "MaleLiteracy": 93,
                         "FemaleLiteracy": 69,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 42,
                         "Num_Schools": 815
                     },
@@ -13048,11 +13048,11 @@
                         "Literacy": 85,
                         "MaleLiteracy": 90,
                         "FemaleLiteracy": 80,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 7,
                         "Num_Schools": 0
                     },
-                    "id": "Dehra Dun",
+                    "id": "Dehradun",
                     "arcs": [
                         [
                             1883,
@@ -13071,11 +13071,11 @@
                         "Literacy": 75,
                         "MaleLiteracy": 82,
                         "FemaleLiteracy": 66,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 21,
                         "Num_Schools": 0
                     },
-                    "id": "Haridwar",
+                    "id": "Hardwar",
                     "arcs": [
                         [
                             1887,
@@ -13092,11 +13092,11 @@
                         "Literacy": 85,
                         "MaleLiteracy": 91,
                         "FemaleLiteracy": 78,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 98,
                         "Num_Schools": 0
                     },
-                    "id": "Naini Tal",
+                    "id": "Nainital",
                     "arcs": [
                         [
                             -1882,
@@ -13113,11 +13113,11 @@
                         "Literacy": 83,
                         "MaleLiteracy": 93,
                         "FemaleLiteracy": 73,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 67,
                         "Num_Schools": 0
                     },
-                    "id": "Pauri Garhwal",
+                    "id": "Pauri",
                     "arcs": [
                         [
                             -1870,
@@ -13137,7 +13137,7 @@
                         "Literacy": 83,
                         "MaleLiteracy": 93,
                         "FemaleLiteracy": 73,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 46,
                         "Num_Schools": 1785
                     },
@@ -13158,11 +13158,11 @@
                         "Literacy": 82,
                         "MaleLiteracy": 95,
                         "FemaleLiteracy": 71,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 15,
                         "Num_Schools": 0
                     },
-                    "id": "Rudra Prayag",
+                    "id": "Rudraprayag",
                     "arcs": [
                         [
                             -1877,
@@ -13178,7 +13178,7 @@
                         "Literacy": 75,
                         "MaleLiteracy": 90,
                         "FemaleLiteracy": 62,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 40,
                         "Num_Schools": 2290
                     },
@@ -13198,7 +13198,7 @@
                         "Literacy": 74,
                         "MaleLiteracy": 82,
                         "FemaleLiteracy": 66,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 79,
                         "Num_Schools": 2299
                     },
@@ -13222,7 +13222,7 @@
                         "Literacy": 76,
                         "MaleLiteracy": 89,
                         "FemaleLiteracy": 62,
-                        "NAME_1": "Uttaranchal",
+                        "NAME_1": "Uttarakhand",
                         "dummy": 11,
                         "Num_Schools": 1381
                     },
@@ -13269,7 +13269,7 @@
                         "dummy": 50,
                         "Num_Schools": 0
                     },
-                    "id": "Barddhaman",
+                    "id": "Paschim Bardhaman",
                     "arcs": [
                         [
                             1902,
@@ -13335,7 +13335,7 @@
                         "dummy": 27,
                         "Num_Schools": 0
                     },
-                    "id": "Darjiling",
+                    "id": "Darjeeling",
                     "arcs": [
                         [
                             -1588,
@@ -13360,7 +13360,7 @@
                         "dummy": 41,
                         "Num_Schools": 0
                     },
-                    "id": "East Midnapore",
+                    "id": "Purba Medinipur",
                     "arcs": [
                         [
                             [
@@ -13387,7 +13387,7 @@
                         "dummy": 79,
                         "Num_Schools": 0
                     },
-                    "id": "Haora",
+                    "id": "Howrah",
                     "arcs": [
                         [
                             [
@@ -13412,7 +13412,7 @@
                         "dummy": 75,
                         "Num_Schools": 0
                     },
-                    "id": "Hugli",
+                    "id": "Hooghly",
                     "arcs": [
                         [
                             1928,
@@ -13455,7 +13455,7 @@
                         "dummy": 14,
                         "Num_Schools": 0
                     },
-                    "id": "Kochbihar",
+                    "id": "Cooch Bihar",
                     "arcs": [
                         [
                             -112,
@@ -13856,7 +13856,7 @@
                         "dummy": 94,
                         "Num_Schools": 0
                     },
-                    "id": "Puruliya",
+                    "id": "Purulia",
                     "arcs": [
                         [
                             -1907,
@@ -14073,7 +14073,7 @@
                         "dummy": 88,
                         "Num_Schools": 0
                     },
-                    "id": "West Midnapore",
+                    "id": "Paschim Medinipur",
                     "arcs": [
                         [
                             -1930,

@@ -41,6 +41,32 @@ function districtMap(districts) {
                         .duration(500)
                         .style("opacity", 0);
                 })
+                .each(function() {
+                    // https://stackoverflow.com/questions/26049910/change-the-color-of-nodes-on-double-click-in-d3
+                    var sel = d3.select(this);
+                    var sel_all = d3.selectAll(".district");
+                    
+                    var state = false;
+                    sel.on("dblclick", function (d) {
+                        // console.log("You clicked", d.id);
+                        // This line deselects previous selection
+                        // Remove if grouping districts
+                        sel_all.style('fill', function (d) { return d.color; });
+                        state = !state;
+                        console.log(state)
+                        //console.log(sel)
+                        if (state) {
+                            //sel.style.remove()
+                            sel.style('fill', '#df8e14');
+                            d3.select("#info").html("<h3>" + (d.id) + "</h3><h4>(" + (d.properties.NAME_1) + ")</h4>")
+                            // sel.style('fill', function (d) { return d.color; });
+                        }
+                        else {
+                            sel.style('fill', function (d) { return d.color; });
+                            d3.select("#info").html("")
+                        }
+                    })
+                })
               
 
 

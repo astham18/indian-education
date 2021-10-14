@@ -1,26 +1,30 @@
 https://udiseplus.gov.in/assets/img/dcf2021/DCF6-8.pdf
 
+Categories
+- School Profile (num schools, % schools in rural areas, 
+  % schools accessible by road in all weather, % schools that received some textbooks and materials,
+  % schools that received uniforms)
+- School Infrastructure
+- 
 School Profile 1
 
 - Num schools per district (need to normalize)
 - Are most schools in rural areas?
-- Which assembly constituency does each district fall Under
-- What school category do most schools in this district belong to?
-- What school types do most of schools in this district belong to?
-- What class do most of the schools have instruction till in this district?
-- Who manages most of the schools in this district?
-- What is the top medium of instruction in schools in this district?
+# - Which assembly constituency does each district fall Under
+# - What school category do most schools in this district belong to?
+# - What school types do most of schools in this district belong to?
+# - What class do most of the schools have instruction till in this district?
+# - Who manages most of the schools in this district?
+# - What is the top medium of instruction in schools in this district?
 
     Accessibility 
     - Are most schools in the district approachable by all-weather roads ?
     
 School Profile 2 
-- How many girls and boys are enrolled under RTE Act?
-
+# - How many girls and boys are enrolled under RTE Act?
     
     - How many textbooks and materials were received by the schools in this area? 
-    - Uniforms provided?
-    - 
+    # - Uniforms provided?
 
 Facilities
 School Infrastructure
@@ -32,11 +36,11 @@ School Infrastructure
     - % of schools with solar panels
     - % of schools of electricity available
     - % of schools with playgrounds available
-    - % of schools with handwashing stations
-    - % of schools that had medical checkups in the last year
+    # - % of schools with handwashing stations
+    # - % of schools that had medical checkups in the last year
     - % of students for whom furniture available is available
     - % of schools with internet
-    - % of schools with laptops, printer, desktop, digiboard, tablet
+    - % of schools with computers
 
 
 Teachers

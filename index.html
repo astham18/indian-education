@@ -4,16 +4,34 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css"-->
     <link rel="stylesheet" href="literacyMap.css">
     <title>Indian Education</title>
 </head>
-
+<style>
+    table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+</style>
 <body>
-    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
-    <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script>
+        var d3v4 = window.d3;
+        window.d3 = null;
+    </script>
+    <script src="https://d3js.org/d3.v3.js"></script>
+    <script>
+        var d3v3 = window.d3;
+        window.d3 = null;
+    </script>
+    <!--script src="https://d3js.org/d3.v4.js"></script-->
+    <script src="https://d3js.org/d3-queue.v3.min.js"> </script>
     <script src="https://d3js.org/topojson.v1.min.js"></script>
     <script src="districtMap.js"></script>
     <script src="literacyMap.js"></script>
+    <script type="text/javascript" src="radar-chart.js"></script>
     
     <body>
         
@@ -28,8 +46,18 @@
             <select id='categoryList'></select>
             <div id="select"></div>
             <div id="info"></div>
+            <div id="rank"></div>
+            
+            
+        </div>
+        <div id="chart" class="chart-container">
+            
+            <!--iframe frameborder="0" width="350px" height="400px"  src="rankChart.html"></iframe-->
+        </div>
+        <div id="ngo">
         </div>
     </div>
+    
     </body>
 
 </html>

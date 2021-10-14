@@ -1,7 +1,23 @@
+#ngo {position: absolute;
+       left: 300px; 
+       top: 750px;
+       text-align: center;
+       }
+#ngo h2 {
+    left: 250px;
+}
 #info {position: absolute;
+       right: 300px; 
+       top: 75px;}
+#rank {position: absolute;
        right: 200px; 
-       top: 100px;}
+       top: 200px;}
 
+#chart {
+position: absolute;
+       right: 200px; 
+       top: 300px;
+}
 #map    {position: relative; min-height: 500px; }
 
 .district, .disputed, .state rect, .state path { stroke: #a9a9a9; stroke-width: 1px; }
@@ -15,6 +31,7 @@
         left: calc((100% - 20px)/2);
         padding: 15px 15px;
         border-radius: 8px;
+        top: 1px;
 }
 
 #categoryList {
@@ -60,3 +77,85 @@
         padding:2px;
         margin:0;
 }
+
+.radar-chart .level {
+  stroke: grey;
+  stroke-width: 0.5;
+}
+
+.radar-chart .axis line {
+  stroke: grey;
+  stroke-width: 1;
+}
+.radar-chart .axis .legend {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+.radar-chart .axis .legend.top {
+  dy:1em;
+}
+.radar-chart .axis .legend.left {
+  text-anchor: start;
+}
+.radar-chart .axis .legend.middle {
+  text-anchor: middle;
+}
+.radar-chart .axis .legend.right {
+  text-anchor: end;
+}
+
+.radar-chart .tooltip {
+  font-family: sans-serif;
+  font-size: 13px;
+  transition: opacity 200ms;
+  opacity: 0;
+}
+.radar-chart .tooltip.visible {
+  opacity: 1;
+}
+
+/* area transition when hovering */
+.radar-chart .area {
+  stroke-width: 2;
+  fill-opacity: 0.5;
+}
+.radar-chart.focus .area {
+  fill-opacity: 0.1;
+}
+.radar-chart.focus .area.focused {
+  fill-opacity: 0.7;
+}
+
+.radar-chart .circle {
+  fill-opacity: 0.9;
+}
+
+/* transitions */
+.radar-chart .area, .radar-chart .circle {
+  transition: opacity 300ms, fill-opacity 200ms;
+  opacity: 1;
+}
+.radar-chart .d3-enter, .radar-chart .d3-exit {
+  opacity: 0;
+}
+
+body {
+      padding: 20px;
+    }
+    .radar-chart .area {
+      fill-opacity: 0.7;
+    }
+    .radar-chart.focus .area {
+      fill-opacity: 0.3;
+    }
+    .radar-chart.focus .area.focused {
+      fill-opacity: 0.9;
+    }
+    .area.germany, .germany .circle {
+      fill: #FFD700;
+      stroke: none;
+    }
+    .area.argentina, .argentina .circle {
+      fill: #ADD8E6;
+      stroke: none;
+    }

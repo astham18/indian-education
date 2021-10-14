@@ -4056,7 +4056,7 @@
                         "dummy": 14,
                         "Num_Schools": 0
                     },
-                    "id": "New Delhi",
+                    "id": "Delhi",
                     "arcs": [
                         [
                             730,
@@ -6294,7 +6294,7 @@
                         "dummy": 44,
                         "Num_Schools": 0
                     },
-                    "id": "Bangalore Urban",
+                    "id": "Bengaluru Urban",
                     "arcs": [
                         [
                             1076,
